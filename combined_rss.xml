@@ -4,16 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">📺 TV Watchlist for Today</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/tv-watchlist-for-today?pk_campaign=rss-feed</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;📺 &lt;strong&gt;TV Watchlist for Today&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Amazon Prime:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;strong&gt;House of David&lt;/strong&gt; – Season 1, Episodes 6–8: ⭐⭐⭐⭐⭐&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;House of David&lt;/em&gt; was excellent, especially the two-part season finale. I do wish there had been one more episode to really round out the season. Once again, I find myself frustrated by shows only getting eight episodes. Here's hoping we don’t have to wait a year or two for a new one. No spoilers. 🎬&lt;/p&gt;
-&lt;p&gt;Tags: &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:TV"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;TV&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:Entertainment"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;Entertainment&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:AmazonPrime"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;AmazonPrime&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/tv-watchlist-for-today</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">2025-05-06T02:35:07+00:00</pubDate>
-    </item>
   </channel>
 </rss>
