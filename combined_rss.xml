@@ -1,8 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-  <channel>
-    <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
-    <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
-    <description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
-  </channel>
+<channel>
+<title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
+<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
+<description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
+<item>
+<title xmlns:dc="http://purl.org/dc/elements/1.1/">📺 This Week’s Watchlist:</title>
+<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-weeks-watchlist-8y8n?pk_campaign=rss-feed</link>
+<description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;📺 &lt;strong&gt;This Week’s Watchlist:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;From Disney+:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;🎬 &lt;strong&gt;Andor&lt;/strong&gt; – &lt;em&gt;Season 2, Episodes 7–9&lt;/em&gt; ⭐⭐⭐⭐&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;No spoilers. I thought Episode 7 had a small pacing issue and dragged a bit, but Episodes 8 and 9 picked up nicely. Like I keep saying, I really hope they wrap this up leading into &lt;em&gt;Rogue One&lt;/em&gt; with a satisfying conclusion. There are some tie-ins to &lt;em&gt;Star Wars Rebels&lt;/em&gt;—might be time for a rewatch. 🎬&lt;/p&gt;
+&lt;p&gt;Tags: &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:TV"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;TV&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:Entertainment"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;Entertainment&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:Disney"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;Disney&lt;/span&gt;&lt;/a&gt;+&lt;/p&gt;</description>
+<guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-weeks-watchlist-8y8n</guid>
+<pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">2025-05-11T23:21:21+00:00</pubDate>
+</item>
+</channel>
 </rss>
