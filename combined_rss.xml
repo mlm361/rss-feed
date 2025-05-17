@@ -1,8 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-  <channel>
-    <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
-    <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
-    <description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
-  </channel>
+<channel>
+<title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
+<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
+<description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
+<item>
+<title xmlns:dc="http://purl.org/dc/elements/1.1/">📺 This TV Week’s Watchlist:</title>
+<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist?pk_campaign=rss-feed</link>
+<description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;📺 &lt;strong&gt;This TV Week’s Watchlist:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;From Disney+:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;🎬 &lt;strong&gt;Andor&lt;/strong&gt; – &lt;em&gt;Season 2, Episodes 10–12&lt;/em&gt;
+&lt;strong&gt;Season and Series Finale&lt;/strong&gt; ⭐⭐⭐&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;No spoilers.&lt;/p&gt;
+&lt;p&gt;I finished &lt;em&gt;Andor&lt;/em&gt; last night and walked away feeling unsatisfied. The characters were strong and interesting, and the actors and actresses who portrayed them were compelling and talented. The problem was the story.&lt;/p&gt;
+&lt;p&gt;While the season did provide some valuable background, explaining how we got to this point, the pacing felt uneven. Some parts were rushed, while others were overly drawn out. It seemed like they were trying to cram the content of four or five additional episodes into just three.&lt;/p&gt;
+&lt;p&gt;If you're going to do that, then each episode needs to be treated like a classic TV miniseries—back in the day, miniseries would run across three or four nights, and each episode would be about 90 to 105 minutes (to account for commercial breaks). That kind of format could have helped here.&lt;/p&gt;
+&lt;p&gt;Yes, &lt;em&gt;technically&lt;/em&gt; (not a spoiler), the show leads into the beginning of &lt;em&gt;&lt;strong&gt;Rogue One&lt;/strong&gt;&lt;/em&gt;, but it didn’t tie things up in a satisfying way. &lt;em&gt;&lt;strong&gt;Rogue One&lt;/strong&gt;&lt;/em&gt; ends with a powerful, climactic bow. &lt;em&gt;Andor&lt;/em&gt;, by contrast, left me disappointed and wanting more.&lt;/p&gt;
+&lt;p&gt;After over two years of waiting, we got about 8.5 hours of content total. For that amount of production time, it deserved either more episodes or longer, richer installments. I understand that the time spent producing, directing, and editing was probably five or six times that—but still, for two years of work, you better deliver great pacing, superior storytelling, and fantastic special effects.&lt;/p&gt;
+&lt;p&gt;This felt like it had so much potential and tried to hit the right spots, but it was more like scratching the surface and hoping you’d hit the itch. 🎬&lt;/p&gt;
+&lt;p&gt;&lt;a class="hashtag" href="https://michaelmitchell.blog/tag:TV"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;TV&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:Entertainment"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;Entertainment&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:Disney"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;Disney&lt;/span&gt;&lt;/a&gt;+&lt;/p&gt;</description>
+<guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist</guid>
+<pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">2025-05-17T14:31:28+00:00</pubDate>
+</item>
+</channel>
 </rss>
