@@ -1,37 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0">
-<channel>
-<title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
-<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
-<description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
-<item>
-<title xmlns:dc="http://purl.org/dc/elements/1.1/">📺 This TV Week’s Watchlist:</title>
-<link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist-8s8l?pk_campaign=rss-feed</link>
-<description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;img alt="A cozy digital illustration of a retro TV glowing blue in a dark room, with a striped popcorn bucket and a remote control in the foreground. The scene evokes a nostalgic movie night atmosphere." src="https://i.snap.as/ZjFi6WmY.png"/&gt;&lt;/p&gt;
-&lt;h3 id="from-peacock"&gt;&lt;em&gt;&lt;strong&gt;From Peacock:&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;&lt;li&gt;🎬 &lt;strong&gt;The Day of the Jackal&lt;/strong&gt; – &lt;em&gt;Season 1, Episodes 4–10&lt;/em&gt; ⭐⭐⭐⭐
-&lt;strong&gt;No spoilers!&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;I finished the first season, and all I have to say is: &lt;em&gt;Bravo.&lt;/em&gt;
-There was action, mystery, intrigue—and more action. Some parts felt wildly exaggerated; I can’t imagine all of it happening outside the realm of TV drama. But other parts? Absolutely plausible—though more likely orchestrated by nation-states than rogue, non-state actors.&lt;/p&gt;
-&lt;p&gt;I hope they make a second season—there's definitely room for it. Maybe even a third. But no more than that.&lt;/p&gt;
-&lt;p&gt;As I said in a previous post, when it comes to TV, the British really know what they’re doing. 🎬&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3 id="from-prime-video"&gt;&lt;em&gt;&lt;strong&gt;From Prime Video:&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;&lt;li&gt;🎬 &lt;strong&gt;The Chosen&lt;/strong&gt; – &lt;em&gt;Season 5, Episodes 2–5&lt;/em&gt; ⭐⭐⭐⭐⭐
-&lt;strong&gt;“No spoilers” doesn’t quite apply here—it’s based on the Bible.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;Not much to say other than: &lt;em&gt;Wow.&lt;/em&gt;
-It’s been a great season so far—and with such incredible source material, how could it not be? 😊
-Fantastic true story, outstanding acting.
-&lt;strong&gt;Best series EVER.&lt;/strong&gt; 🎬&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;code&gt;#TV&lt;/code&gt; &lt;code&gt;#Entertainment&lt;/code&gt; &lt;code&gt;#Peacock&lt;/code&gt; &lt;code&gt;#PrimeVideo&lt;/code&gt;&lt;/p&gt;
-&lt;p style="font-weight: bold; font-size: 1.1em; font-family: Georgia, serif; color: #0c5c35;"&gt;
-  💬 &lt;a href="https://remark.as/p/michaelmitchell.blog/this-tv-weeks-watchlist-8s8l"&gt;Discuss...&lt;/a&gt;
-  ✉️ &lt;a href="mailto:michaelm2@michaelmitchell.blog" style="color: #0c5c35; text-decoration: none;"&gt;Email&lt;/a&gt;  
-  🦣 &lt;a href="https://writing.exchange/@michaelm2" style="color: #0c5c35; text-decoration: none;"&gt;Reply on Mastodon&lt;/a&gt;
-&lt;/p&gt;</description>
-<guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist-8s8l</guid>
-<pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">2025-06-24T01:31:35+00:00</pubDate>
-</item>
-</channel>
+  <channel>
+    <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
+    <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.xyz/</link>
+    <description xmlns:dc="http://purl.org/dc/elements/1.1/">Aggregated RSS Feed of new and updated posts.</description>
+  </channel>
 </rss>
