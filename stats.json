@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-16T20:17:28.348790+00:00",
+  "generated_at": "2025-08-21T14:16:57.796454+00:00",
   "source": "Comprehensive Full Fetch (All Historical Posts)",
   "update_frequency": "Monthly full rebuild + weekly incremental",
   "note": "Complete blog statistics from full analysis",
   "total_posts": 956,
-  "total_words": 95055,
+  "total_words": 95421,
   "total_photo_only_posts": 41,
   "processing_summary": {
     "total_discovered": 956,
@@ -15,7 +15,7 @@
   "config": {
     "start_year": 2001,
     "photo_only_threshold": 10,
-    "blogger_domain": "blog.michaelleemitchell.net",
+    "blogger_domain": "www.michaelponders.com",
     "fetch_method": "Comprehensive Full Fetch",
     "includes_legacy_posts": true
   },
@@ -142,7 +142,7 @@
     },
     "2025": {
       "posts": 150,
-      "words": 27569,
+      "words": 27935,
       "photo_only": 5
     }
   },
@@ -1237,8 +1237,8 @@
     },
     "2025": {
       "08": {
-        "posts": 6,
-        "words": 1862,
+        "posts": 9,
+        "words": 2546,
         "photo_only": 0
       },
       "07": {
@@ -1272,8 +1272,8 @@
         "photo_only": 0
       },
       "01": {
-        "posts": 8,
-        "words": 662,
+        "posts": 5,
+        "words": 344,
         "photo_only": 0
       }
     }
@@ -1281,7 +1281,7 @@
   "top_longest_posts": [
     {
       "title": "Beyond Politics: How to Build a Better Federal Government",
-      "url": "https://blog.michaelleemitchell.net/2025/02/beyond-politics-how-to-build-better.html",
+      "url": "https://www.michaelponders.com/2025/02/beyond-politics-how-to-build-better.html",
       "date": "2025-02-08",
       "year": 2025,
       "month": "02",
@@ -1291,7 +1291,7 @@
     },
     {
       "title": "A Journey to and Review of Micro.blog",
-      "url": "https://blog.michaelleemitchell.net/2025/02/a-journey-to-and-review-of-microblog.html",
+      "url": "https://www.michaelponders.com/2025/02/a-journey-to-and-review-of-microblog.html",
       "date": "2025-02-20",
       "year": 2025,
       "month": "02",
@@ -1301,7 +1301,7 @@
     },
     {
       "title": "Not a Throne, but a Cross",
-      "url": "https://blog.michaelleemitchell.net/2025/04/not-throne-but-cross.html",
+      "url": "https://www.michaelponders.com/2025/04/not-throne-but-cross.html",
       "date": "2025-04-19",
       "year": 2025,
       "month": "04",
@@ -1311,7 +1311,7 @@
     },
     {
       "title": "Healthcare Should Be Universal",
-      "url": "https://blog.michaelleemitchell.net/2025/03/healthcare-should-be-universal.html",
+      "url": "https://www.michaelponders.com/2025/03/healthcare-should-be-universal.html",
       "date": "2025-03-30",
       "year": 2025,
       "month": "03",
@@ -1321,7 +1321,7 @@
     },
     {
       "title": "A Programming Journey with AI: What They Don't Tell You",
-      "url": "https://blog.michaelleemitchell.net/2025/03/a-programming-journey-with-ai-what-they.html",
+      "url": "https://www.michaelponders.com/2025/03/a-programming-journey-with-ai-what-they.html",
       "date": "2025-03-09",
       "year": 2025,
       "month": "03",
@@ -1333,7 +1333,7 @@
   "top_shortest_posts": [
     {
       "title": "Another amazing Video",
-      "url": "https://blog.michaelleemitchell.net/2010/12/another-amazing-video.html",
+      "url": "https://www.michaelponders.com/2010/12/another-amazing-video.html",
       "date": "2010-12-04",
       "year": 2010,
       "month": "12",
@@ -1343,7 +1343,7 @@
     },
     {
       "title": "Happy Birthday Jesus",
-      "url": "https://blog.michaelleemitchell.net/2008/12/happy-birthday-jesus.html",
+      "url": "https://www.michaelponders.com/2008/12/happy-birthday-jesus.html",
       "date": "2008-12-25",
       "year": 2008,
       "month": "12",
@@ -1353,7 +1353,7 @@
     },
     {
       "title": "Slow night at UCH",
-      "url": "https://blog.michaelleemitchell.net/2009/06/slow-night-at-uch.html",
+      "url": "https://www.michaelponders.com/2009/06/slow-night-at-uch.html",
       "date": "2009-06-10",
       "year": 2009,
       "month": "06",
@@ -1363,7 +1363,7 @@
     },
     {
       "title": "Working overtime",
-      "url": "https://blog.michaelleemitchell.net/2005/02/working-overtime.html",
+      "url": "https://www.michaelponders.com/2005/02/working-overtime.html",
       "date": "2005-02-15",
       "year": 2005,
       "month": "02",
@@ -1373,7 +1373,7 @@
     },
     {
       "title": "Greg Pritchard - Britain's Got Talent - Show 5",
-      "url": "https://blog.michaelleemitchell.net/2009/05/greg-pritchard-britain-got-talent-show-5.html",
+      "url": "https://www.michaelponders.com/2009/05/greg-pritchard-britain-got-talent-show-5.html",
       "date": "2009-05-11",
       "year": 2009,
       "month": "05",
