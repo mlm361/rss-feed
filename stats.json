@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T14:16:57.796454+00:00",
+  "generated_at": "2025-08-21T17:08:08.521319+00:00",
   "source": "Comprehensive Full Fetch (All Historical Posts)",
   "update_frequency": "Monthly full rebuild + weekly incremental",
   "note": "Complete blog statistics from full analysis",
@@ -1408,5 +1408,9 @@
     2003,
     2002,
     2001
-  ]
+  ],
+  "years_span": 24,
+  "start_year": 2001,
+  "latest_year": 2025,
+  "calendar_years_count": 25
 }
