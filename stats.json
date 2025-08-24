@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-21T17:08:08.521319+00:00",
-  "source": "Comprehensive Full Fetch (All Historical Posts)",
-  "update_frequency": "Monthly full rebuild + weekly incremental",
-  "note": "Complete blog statistics from full analysis",
-  "total_posts": 956,
-  "total_words": 95421,
+  "generated_at": "2025-08-24T19:25:33.758025+00:00",
+  "source": "Incremental Update (Preserving Historical Data)",
+  "update_frequency": "Weekly incremental updates",
+  "note": "Updated with 13 new posts",
+  "total_posts": 982,
+  "total_words": 101147,
   "total_photo_only_posts": 41,
   "processing_summary": {
     "total_discovered": 956,
@@ -141,8 +141,8 @@
       "photo_only": 0
     },
     "2025": {
-      "posts": 150,
-      "words": 27935,
+      "posts": 176,
+      "words": 33661,
       "photo_only": 5
     }
   },
@@ -1237,8 +1237,8 @@
     },
     "2025": {
       "08": {
-        "posts": 9,
-        "words": 2546,
+        "posts": 35,
+        "words": 8272,
         "photo_only": 0
       },
       "07": {
