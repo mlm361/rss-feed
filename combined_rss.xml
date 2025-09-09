@@ -4,5 +4,12 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Working on something wonderful</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/working-on-something-wonderfull?pk_campaign=rss-feed</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;I am working on something wonderful in Python 🐍. It’s a slow process, but I’m making progress 🚀. At this rate, it won’t be ready until the end of the year 📅. I don’t want to reveal it until it’s finished and working 🔒.&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/working-on-something-wonderfull</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Tue, 09 Sep 2025 01:14:37 +0000</pubDate>
+    </item>
   </channel>
 </rss>
