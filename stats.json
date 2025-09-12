@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-12T18:16:05.551267+00:00",
+  "generated_at": "2025-09-12T18:36:24.006364+00:00",
   "source": "Comprehensive Full Fetch (All Historical Posts)",
   "update_frequency": "Monthly full rebuild + weekly incremental",
   "note": "Complete blog statistics from full analysis",
@@ -2300,7 +2300,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Happy Birthday Jesus",
+      "title": "Blog Post from 12/25/2008",
       "url": "https://www.michaelponders.com/2008/12/happy-birthday-jesus.html",
       "date": "2008-12-25",
       "year": 2008,
@@ -2310,7 +2310,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Slow night at UCH",
+      "title": "Blog Post from 06/10/2009",
       "url": "https://www.michaelponders.com/2009/06/slow-night-at-uch.html",
       "date": "2009-06-10",
       "year": 2009,
@@ -2320,7 +2320,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Working overtime",
+      "title": "Blog Post from 02/15/2005",
       "url": "https://www.michaelponders.com/2005/02/working-overtime.html",
       "date": "2005-02-15",
       "year": 2005,
