@@ -1,11 +1,12 @@
 {
-  "generated_at": "2025-09-12T18:36:24.006364+00:00",
-  "source": "Comprehensive Full Fetch (All Historical Posts)",
+  "schema_version": 2,
+  "generated_at": "2025-09-12T19:51:35.347770+00:00",
+  "source": "Comprehensive Full Fetch (Schema v2)",
   "update_frequency": "Monthly full rebuild + weekly incremental",
-  "note": "Complete blog statistics from full analysis",
-  "total_posts": 956,
-  "total_words": 95162,
-  "total_photo_only_posts": 39,
+  "note": "Complete blog statistics from full analysis, normalized to schema v2",
+  "total_posts": 961,
+  "total_words": 99265,
+  "total_photo_only_posts": 38,
   "processed_post_urls": [
     "https://www.michaelponders.com/2001/12/well-as-you-can-see-i-have-updated-my.html",
     "https://www.michaelponders.com/2001/12/well-my-web-site-will-not-be-updated.html",
@@ -246,6 +247,7 @@
     "https://www.michaelponders.com/2003/01/i-took-henry-to-vet-ophthalmologist.html",
     "https://www.michaelponders.com/2003/01/this-news-with-henry-is-not-starting-my.html",
     "https://www.michaelponders.com/2003/01/i-received-some-very-very-bad-news-today.html",
+    "https://www.michaelponders.com/2002/12/this-is-my-last-post-of-this-year.html",
     "https://www.michaelponders.com/2004/12/cellular-telephone-service.html",
     "https://www.michaelponders.com/2004/12/merry-christmas.html",
     "https://www.michaelponders.com/2004/12/cold.html",
@@ -327,6 +329,7 @@
     "https://www.michaelponders.com/2004/01/well-this-is-new.html",
     "https://www.michaelponders.com/2004/01/i-went-to-doctor-yesterday-for-yearly.html",
     "https://www.michaelponders.com/2004/01/hope-everyone-had-great-new-years.html",
+    "https://www.michaelponders.com/2003/12/well-happy-new-year-eves-to-everyone.html",
     "https://www.michaelponders.com/2005/12/more-dvds-watched.htm",
     "https://www.michaelponders.com/2005/12/more-dvds-watched-and-going-to-disney.htm",
     "https://www.michaelponders.com/2005/11/dvd-and-work.html",
@@ -702,6 +705,7 @@
     "https://www.michaelponders.com/2017/05/nothing-new_8.html",
     "https://www.michaelponders.com/2017/04/my-birthday-yesterday.html",
     "https://www.michaelponders.com/2017/01/happy-new-year-lets-hope-and-pray-that_1.html",
+    "https://www.michaelponders.com/2016/12/end-of-2016_31.html",
     "https://www.michaelponders.com/2018/12/one-of-few-last-post-for-2018_13.html",
     "https://www.michaelponders.com/2018/10/bella-my-cat_9.html",
     "https://www.michaelponders.com/2018/04/what-is-going-on-with-corporations_26.html",
@@ -753,6 +757,7 @@
     "https://www.michaelponders.com/2020/04/wuhan-china-virus-covid19.html",
     "https://www.michaelponders.com/2020/02/broadband-in-america.html",
     "https://www.michaelponders.com/2020/01/welcome-2020.html",
+    "https://www.michaelponders.com/2019/12/good-bye-2019.html",
     "https://www.michaelponders.com/2021/12/merry-christmas-eve_24.html",
     "https://www.michaelponders.com/2021/12/my-new-computer_2.html",
     "https://www.michaelponders.com/2021/10/shortages-shortages-and-more-shortages.html",
@@ -765,6 +770,7 @@
     "https://www.michaelponders.com/2021/05/what-if.html",
     "https://www.michaelponders.com/2021/04/just-thinking.html",
     "https://www.michaelponders.com/2021/01/new-year-2021.html",
+    "https://www.michaelponders.com/2020/12/last-post-of-2020.html",
     "https://www.michaelponders.com/2022/12/mitchelltribesocial-mastondon-server.html",
     "https://www.michaelponders.com/2022/12/merry-christmas-2022.html",
     "https://www.michaelponders.com/2022/12/christmas-and-end-of-year-fast.html",
@@ -965,14 +971,14 @@
     "https://www.michaelponders.com/2025/02/i-have-been-trying-to-catch-up-on-my.html"
   ],
   "processing_summary": {
-    "total_discovered": 956,
-    "items_processed": 956,
+    "total_discovered": 961,
+    "items_processed": 961,
     "items_skipped_dates": 0,
-    "text_posts": 917
+    "text_posts": 923
   },
   "config": {
     "start_year": 2001,
-    "photo_only_threshold": 10,
+    "photo_only_word_threshold": 10,
     "blogger_domain": "www.michaelponders.com",
     "fetch_method": "Comprehensive Full Fetch",
     "includes_legacy_posts": true
@@ -984,78 +990,78 @@
       "photo_only": 0
     },
     "2002": {
-      "posts": 125,
-      "words": 7079,
+      "posts": 126,
+      "words": 7188,
       "photo_only": 0
     },
     "2003": {
-      "posts": 90,
-      "words": 8097,
+      "posts": 91,
+      "words": 8132,
       "photo_only": 0
     },
     "2004": {
       "posts": 81,
-      "words": 6410,
+      "words": 6433,
       "photo_only": 0
     },
     "2005": {
       "posts": 59,
-      "words": 5359,
+      "words": 5368,
       "photo_only": 5
     },
     "2006": {
       "posts": 36,
-      "words": 3234,
+      "words": 3244,
       "photo_only": 7
     },
     "2007": {
       "posts": 34,
-      "words": 2478,
+      "words": 2495,
       "photo_only": 2
     },
     "2008": {
       "posts": 25,
-      "words": 2739,
+      "words": 2746,
       "photo_only": 0
     },
     "2009": {
       "posts": 75,
-      "words": 3644,
+      "words": 3717,
       "photo_only": 1
     },
     "2010": {
       "posts": 45,
-      "words": 4776,
+      "words": 4838,
       "photo_only": 2
     },
     "2011": {
       "posts": 24,
-      "words": 2835,
+      "words": 2972,
       "photo_only": 0
     },
     "2012": {
       "posts": 20,
-      "words": 2120,
+      "words": 2195,
       "photo_only": 0
     },
     "2013": {
       "posts": 10,
-      "words": 1422,
+      "words": 1471,
       "photo_only": 0
     },
     "2014": {
       "posts": 6,
-      "words": 502,
+      "words": 520,
       "photo_only": 0
     },
     "2015": {
       "posts": 16,
-      "words": 1379,
+      "words": 1415,
       "photo_only": 5
     },
     "2016": {
-      "posts": 16,
-      "words": 598,
+      "posts": 17,
+      "words": 715,
       "photo_only": 8
     },
     "2017": {
@@ -1065,60 +1071,85 @@
     },
     "2018": {
       "posts": 7,
-      "words": 539,
+      "words": 542,
       "photo_only": 1
     },
     "2019": {
-      "posts": 28,
-      "words": 2607,
+      "posts": 29,
+      "words": 2725,
       "photo_only": 0
     },
     "2020": {
-      "posts": 16,
-      "words": 1477,
+      "posts": 17,
+      "words": 1585,
       "photo_only": 0
     },
     "2021": {
       "posts": 12,
-      "words": 1379,
+      "words": 1381,
       "photo_only": 0
     },
     "2022": {
       "posts": 9,
-      "words": 1135,
+      "words": 1139,
       "photo_only": 0
     },
     "2023": {
       "posts": 20,
-      "words": 3115,
+      "words": 3164,
       "photo_only": 0
     },
     "2024": {
       "posts": 19,
-      "words": 3189,
+      "words": 3297,
       "photo_only": 0
     },
     "2025": {
       "posts": 150,
-      "words": 27594,
-      "photo_only": 5
+      "words": 30528,
+      "photo_only": 4
     }
   },
   "by_year_month": {
     "2001": {
-      "12": {
-        "posts": 3,
-        "words": 172,
+      "01": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "11": {
-        "posts": 1,
-        "words": 61,
+      "02": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "10": {
-        "posts": 1,
-        "words": 30,
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 13,
+        "words": 547,
         "photo_only": 0
       },
       "09": {
@@ -1126,61 +1157,26 @@
         "words": 183,
         "photo_only": 0
       },
-      "08": {
-        "posts": 13,
-        "words": 547,
+      "10": {
+        "posts": 1,
+        "words": 30,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 1,
+        "words": 61,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 3,
+        "words": 172,
         "photo_only": 0
       }
     },
     "2002": {
-      "12": {
-        "posts": 7,
-        "words": 350,
-        "photo_only": 0
-      },
-      "11": {
-        "posts": 10,
-        "words": 651,
-        "photo_only": 0
-      },
-      "10": {
+      "01": {
         "posts": 8,
-        "words": 357,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 17,
-        "words": 1096,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 6,
-        "words": 555,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 6,
-        "words": 450,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 10,
-        "words": 489,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 10,
-        "words": 583,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 14,
-        "words": 598,
-        "photo_only": 0
-      },
-      "03": {
-        "posts": 11,
-        "words": 547,
+        "words": 472,
         "photo_only": 0
       },
       "02": {
@@ -1188,56 +1184,66 @@
         "words": 931,
         "photo_only": 0
       },
-      "01": {
+      "03": {
+        "posts": 11,
+        "words": 547,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 14,
+        "words": 598,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 10,
+        "words": 584,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 10,
+        "words": 489,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 6,
+        "words": 450,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 6,
+        "words": 555,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 17,
+        "words": 1096,
+        "photo_only": 0
+      },
+      "10": {
         "posts": 8,
-        "words": 472,
+        "words": 357,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 10,
+        "words": 651,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 8,
+        "words": 458,
         "photo_only": 0
       }
     },
     "2003": {
-      "12": {
-        "posts": 7,
-        "words": 685,
+      "01": {
+        "posts": 12,
+        "words": 777,
         "photo_only": 0
       },
-      "11": {
+      "02": {
         "posts": 5,
-        "words": 666,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 5,
-        "words": 487,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 7,
-        "words": 1082,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 10,
-        "words": 841,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 3,
-        "words": 214,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 6,
-        "words": 578,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 5,
-        "words": 624,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 16,
-        "words": 914,
+        "words": 397,
         "photo_only": 0
       },
       "03": {
@@ -1245,46 +1251,76 @@
         "words": 833,
         "photo_only": 0
       },
-      "02": {
-        "posts": 5,
-        "words": 396,
+      "04": {
+        "posts": 16,
+        "words": 914,
         "photo_only": 0
       },
-      "01": {
-        "posts": 12,
-        "words": 777,
+      "05": {
+        "posts": 5,
+        "words": 624,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 6,
+        "words": 579,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 3,
+        "words": 214,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 10,
+        "words": 847,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 7,
+        "words": 1085,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 5,
+        "words": 491,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 5,
+        "words": 670,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 8,
+        "words": 701,
         "photo_only": 0
       }
     },
     "2004": {
-      "12": {
-        "posts": 4,
-        "words": 375,
-        "photo_only": 0
-      },
-      "11": {
-        "posts": 4,
-        "words": 346,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 3,
-        "words": 168,
-        "photo_only": 0
-      },
-      "09": {
+      "01": {
         "posts": 8,
-        "words": 668,
+        "words": 633,
         "photo_only": 0
       },
-      "08": {
-        "posts": 4,
-        "words": 491,
+      "02": {
+        "posts": 8,
+        "words": 863,
         "photo_only": 0
       },
-      "07": {
-        "posts": 7,
-        "words": 386,
+      "03": {
+        "posts": 8,
+        "words": 893,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 5,
+        "words": 304,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 10,
+        "words": 644,
         "photo_only": 0
       },
       "06": {
@@ -1292,71 +1328,46 @@
         "words": 651,
         "photo_only": 0
       },
-      "05": {
-        "posts": 10,
-        "words": 643,
+      "07": {
+        "posts": 7,
+        "words": 386,
         "photo_only": 0
       },
-      "04": {
-        "posts": 5,
-        "words": 298,
+      "08": {
+        "posts": 4,
+        "words": 492,
         "photo_only": 0
       },
-      "03": {
+      "09": {
         "posts": 8,
-        "words": 891,
+        "words": 668,
         "photo_only": 0
       },
-      "02": {
-        "posts": 8,
-        "words": 862,
+      "10": {
+        "posts": 3,
+        "words": 168,
         "photo_only": 0
       },
-      "01": {
-        "posts": 8,
-        "words": 631,
+      "11": {
+        "posts": 4,
+        "words": 346,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 4,
+        "words": 385,
         "photo_only": 0
       }
     },
     "2005": {
-      "12": {
-        "posts": 2,
-        "words": 165,
-        "photo_only": 0
-      },
-      "11": {
+      "01": {
         "posts": 5,
-        "words": 655,
+        "words": 409,
         "photo_only": 0
       },
-      "09": {
-        "posts": 7,
-        "words": 347,
-        "photo_only": 2
-      },
-      "08": {
-        "posts": 10,
-        "words": 413,
-        "photo_only": 3
-      },
-      "07": {
-        "posts": 2,
-        "words": 258,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 7,
-        "words": 1252,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 6,
-        "words": 404,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 6,
-        "words": 867,
+      "02": {
+        "posts": 3,
+        "words": 61,
         "photo_only": 0
       },
       "03": {
@@ -1364,46 +1375,71 @@
         "words": 528,
         "photo_only": 0
       },
-      "02": {
-        "posts": 3,
-        "words": 61,
+      "04": {
+        "posts": 6,
+        "words": 868,
         "photo_only": 0
       },
-      "01": {
+      "05": {
+        "posts": 6,
+        "words": 405,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 7,
+        "words": 1256,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 2,
+        "words": 258,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 10,
+        "words": 414,
+        "photo_only": 3
+      },
+      "09": {
+        "posts": 7,
+        "words": 348,
+        "photo_only": 2
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
         "posts": 5,
-        "words": 409,
+        "words": 655,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 2,
+        "words": 166,
         "photo_only": 0
       }
     },
     "2006": {
-      "12": {
+      "01": {
+        "posts": 6,
+        "words": 449,
+        "photo_only": 1
+      },
+      "02": {
+        "posts": 9,
+        "words": 452,
+        "photo_only": 6
+      },
+      "03": {
         "posts": 1,
-        "words": 138,
+        "words": 271,
         "photo_only": 0
       },
-      "11": {
-        "posts": 1,
-        "words": 154,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 2,
-        "words": 114,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 5,
-        "words": 470,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 1,
-        "words": 167,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 2,
-        "words": 244,
+      "04": {
+        "posts": 6,
+        "words": 501,
         "photo_only": 0
       },
       "05": {
@@ -1411,61 +1447,51 @@
         "words": 282,
         "photo_only": 0
       },
-      "04": {
-        "posts": 6,
-        "words": 500,
-        "photo_only": 0
-      },
-      "03": {
-        "posts": 1,
-        "words": 271,
-        "photo_only": 0
-      },
-      "02": {
-        "posts": 9,
-        "words": 452,
-        "photo_only": 6
-      },
-      "01": {
-        "posts": 6,
-        "words": 442,
-        "photo_only": 1
-      }
-    },
-    "2007": {
-      "12": {
-        "posts": 10,
-        "words": 682,
-        "photo_only": 0
-      },
-      "11": {
+      "06": {
         "posts": 2,
-        "words": 53,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 1,
-        "words": 51,
+        "words": 244,
         "photo_only": 0
       },
       "07": {
         "posts": 1,
-        "words": 143,
+        "words": 167,
         "photo_only": 0
       },
-      "06": {
-        "posts": 3,
-        "words": 227,
+      "08": {
+        "posts": 5,
+        "words": 470,
         "photo_only": 0
       },
-      "05": {
+      "09": {
+        "posts": 2,
+        "words": 115,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
         "posts": 1,
-        "words": 138,
+        "words": 154,
         "photo_only": 0
       },
-      "04": {
-        "posts": 6,
-        "words": 518,
+      "12": {
+        "posts": 1,
+        "words": 139,
+        "photo_only": 0
+      }
+    },
+    "2007": {
+      "01": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 2,
+        "words": 183,
         "photo_only": 0
       },
       "03": {
@@ -1473,56 +1499,56 @@
         "words": 485,
         "photo_only": 2
       },
-      "02": {
-        "posts": 2,
-        "words": 181,
-        "photo_only": 0
-      }
-    },
-    "2008": {
-      "12": {
-        "posts": 4,
-        "words": 100,
-        "photo_only": 0
-      },
-      "11": {
-        "posts": 3,
-        "words": 169,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 1,
-        "words": 40,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 1,
-        "words": 141,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 2,
-        "words": 449,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 4,
-        "words": 164,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 2,
-        "words": 148,
+      "04": {
+        "posts": 6,
+        "words": 520,
         "photo_only": 0
       },
       "05": {
         "posts": 1,
-        "words": 222,
+        "words": 138,
         "photo_only": 0
       },
-      "03": {
+      "06": {
+        "posts": 3,
+        "words": 229,
+        "photo_only": 0
+      },
+      "07": {
         "posts": 1,
-        "words": 206,
+        "words": 143,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 1,
+        "words": 51,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 2,
+        "words": 54,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 10,
+        "words": 692,
+        "photo_only": 0
+      }
+    },
+    "2008": {
+      "01": {
+        "posts": 4,
+        "words": 585,
         "photo_only": 0
       },
       "02": {
@@ -1530,46 +1556,76 @@
         "words": 515,
         "photo_only": 0
       },
-      "01": {
-        "posts": 4,
-        "words": 585,
-        "photo_only": 0
-      }
-    },
-    "2009": {
-      "12": {
-        "posts": 4,
-        "words": 94,
+      "03": {
+        "posts": 1,
+        "words": 210,
         "photo_only": 0
       },
-      "11": {
+      "04": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 1,
+        "words": 222,
+        "photo_only": 0
+      },
+      "06": {
         "posts": 2,
         "words": 148,
         "photo_only": 0
       },
-      "10": {
-        "posts": 1,
-        "words": 43,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 3,
-        "words": 258,
+      "07": {
+        "posts": 4,
+        "words": 165,
         "photo_only": 0
       },
       "08": {
+        "posts": 2,
+        "words": 449,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 1,
+        "words": 141,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 1,
+        "words": 40,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 3,
+        "words": 170,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 4,
+        "words": 101,
+        "photo_only": 0
+      }
+    },
+    "2009": {
+      "01": {
+        "posts": 9,
+        "words": 419,
+        "photo_only": 0
+      },
+      "02": {
         "posts": 7,
-        "words": 514,
+        "words": 408,
         "photo_only": 0
       },
-      "07": {
-        "posts": 3,
-        "words": 91,
+      "03": {
+        "posts": 12,
+        "words": 602,
         "photo_only": 0
       },
-      "06": {
-        "posts": 3,
-        "words": 91,
+      "04": {
+        "posts": 14,
+        "words": 694,
         "photo_only": 0
       },
       "05": {
@@ -1577,288 +1633,453 @@
         "words": 345,
         "photo_only": 1
       },
-      "04": {
-        "posts": 14,
-        "words": 685,
+      "06": {
+        "posts": 3,
+        "words": 91,
         "photo_only": 0
       },
-      "03": {
-        "posts": 12,
-        "words": 554,
+      "07": {
+        "posts": 3,
+        "words": 91,
         "photo_only": 0
       },
-      "02": {
+      "08": {
         "posts": 7,
-        "words": 405,
+        "words": 519,
         "photo_only": 0
       },
-      "01": {
-        "posts": 9,
-        "words": 416,
+      "09": {
+        "posts": 3,
+        "words": 261,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 1,
+        "words": 43,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 2,
+        "words": 150,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 4,
+        "words": 94,
         "photo_only": 0
       }
     },
     "2010": {
-      "12": {
+      "01": {
+        "posts": 3,
+        "words": 223,
+        "photo_only": 1
+      },
+      "02": {
         "posts": 7,
-        "words": 513,
+        "words": 534,
+        "photo_only": 1
+      },
+      "03": {
+        "posts": 7,
+        "words": 925,
         "photo_only": 0
       },
-      "11": {
+      "04": {
+        "posts": 4,
+        "words": 432,
+        "photo_only": 0
+      },
+      "05": {
         "posts": 2,
-        "words": 187,
+        "words": 626,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 2,
+        "words": 238,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 2,
+        "words": 123,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 1,
+        "words": 282,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "10": {
         "posts": 8,
-        "words": 730,
+        "words": 739,
         "photo_only": 0
       },
-      "08": {
-        "posts": 1,
-        "words": 278,
-        "photo_only": 0
-      },
-      "07": {
+      "11": {
         "posts": 2,
-        "words": 121,
+        "words": 189,
         "photo_only": 0
       },
-      "06": {
-        "posts": 2,
-        "words": 236,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 2,
-        "words": 622,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 4,
-        "words": 428,
-        "photo_only": 0
-      },
-      "03": {
+      "12": {
         "posts": 7,
-        "words": 916,
+        "words": 527,
         "photo_only": 0
-      },
-      "02": {
-        "posts": 7,
-        "words": 524,
-        "photo_only": 1
-      },
-      "01": {
-        "posts": 3,
-        "words": 221,
-        "photo_only": 1
       }
     },
     "2011": {
-      "12": {
-        "posts": 1,
-        "words": 207,
-        "photo_only": 0
-      },
-      "11": {
-        "posts": 2,
-        "words": 298,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 2,
-        "words": 252,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 3,
-        "words": 264,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 2,
-        "words": 328,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 2,
-        "words": 143,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 1,
-        "words": 147,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 3,
-        "words": 198,
-        "photo_only": 0
-      },
-      "03": {
-        "posts": 2,
-        "words": 248,
-        "photo_only": 0
-      },
-      "02": {
-        "posts": 2,
-        "words": 145,
-        "photo_only": 0
-      },
       "01": {
         "posts": 4,
-        "words": 605,
-        "photo_only": 0
-      }
-    },
-    "2012": {
-      "12": {
-        "posts": 2,
-        "words": 293,
-        "photo_only": 0
-      },
-      "11": {
-        "posts": 2,
-        "words": 237,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 2,
-        "words": 272,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 1,
-        "words": 115,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 5,
-        "words": 474,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 2,
-        "words": 370,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 1,
-        "words": 79,
-        "photo_only": 0
-      },
-      "03": {
-        "posts": 1,
-        "words": 67,
+        "words": 615,
         "photo_only": 0
       },
       "02": {
-        "posts": 1,
-        "words": 59,
-        "photo_only": 0
-      },
-      "01": {
-        "posts": 3,
-        "words": 154,
-        "photo_only": 0
-      }
-    },
-    "2013": {
-      "11": {
         "posts": 2,
-        "words": 262,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 1,
-        "words": 136,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 1,
-        "words": 98,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 2,
-        "words": 247,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 1,
-        "words": 188,
-        "photo_only": 0
-      },
-      "05": {
-        "posts": 1,
-        "words": 139,
+        "words": 146,
         "photo_only": 0
       },
       "03": {
         "posts": 2,
-        "words": 352,
-        "photo_only": 0
-      }
-    },
-    "2014": {
-      "12": {
-        "posts": 1,
-        "words": 62,
+        "words": 259,
         "photo_only": 0
       },
-      "09": {
+      "04": {
+        "posts": 3,
+        "words": 210,
+        "photo_only": 0
+      },
+      "05": {
         "posts": 1,
         "words": 152,
         "photo_only": 0
       },
       "06": {
-        "posts": 3,
-        "words": 268,
-        "photo_only": 0
-      },
-      "01": {
-        "posts": 1,
-        "words": 20,
-        "photo_only": 0
-      }
-    },
-    "2015": {
-      "12": {
-        "posts": 10,
-        "words": 370,
-        "photo_only": 5
-      },
-      "11": {
-        "posts": 1,
-        "words": 142,
-        "photo_only": 0
-      },
-      "09": {
         "posts": 2,
-        "words": 398,
+        "words": 187,
         "photo_only": 0
       },
       "07": {
-        "posts": 1,
-        "words": 61,
+        "posts": 2,
+        "words": 339,
         "photo_only": 0
       },
-      "04": {
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 3,
+        "words": 269,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 2,
+        "words": 263,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 2,
+        "words": 322,
+        "photo_only": 0
+      },
+      "12": {
         "posts": 1,
-        "words": 166,
+        "words": 210,
+        "photo_only": 0
+      }
+    },
+    "2012": {
+      "01": {
+        "posts": 3,
+        "words": 157,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 1,
+        "words": 64,
         "photo_only": 0
       },
       "03": {
         "posts": 1,
-        "words": 242,
+        "words": 70,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 1,
+        "words": 84,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 2,
+        "words": 380,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 5,
+        "words": 498,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 1,
+        "words": 118,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 2,
+        "words": 282,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 2,
+        "words": 239,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 2,
+        "words": 303,
         "photo_only": 0
       }
     },
-    "2016": {
+    "2013": {
+      "01": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 2,
+        "words": 360,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 1,
+        "words": 144,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 1,
+        "words": 195,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 2,
+        "words": 258,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 1,
+        "words": 103,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 1,
+        "words": 141,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 2,
+        "words": 270,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      }
+    },
+    "2014": {
+      "01": {
+        "posts": 1,
+        "words": 20,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 3,
+        "words": 278,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 1,
+        "words": 157,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 1,
+        "words": 65,
+        "photo_only": 0
+      }
+    },
+    "2015": {
+      "01": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 1,
+        "words": 247,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 1,
+        "words": 171,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 1,
+        "words": 66,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 2,
+        "words": 409,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
       "11": {
         "posts": 1,
-        "words": 125,
+        "words": 149,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 10,
+        "words": 373,
+        "photo_only": 5
+      }
+    },
+    "2016": {
+      "01": {
+        "posts": 2,
+        "words": 174,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 7,
+        "words": 106,
+        "photo_only": 3
+      },
+      "05": {
+        "posts": 1,
+        "words": 6,
+        "photo_only": 1
+      },
+      "06": {
+        "posts": 1,
+        "words": 6,
+        "photo_only": 1
+      },
+      "07": {
+        "posts": 2,
+        "words": 169,
+        "photo_only": 1
+      },
+      "08": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "09": {
@@ -1866,56 +2087,36 @@
         "words": 12,
         "photo_only": 2
       },
-      "07": {
-        "posts": 2,
-        "words": 169,
-        "photo_only": 1
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
       },
-      "06": {
+      "11": {
         "posts": 1,
-        "words": 6,
-        "photo_only": 1
+        "words": 125,
+        "photo_only": 0
       },
-      "05": {
+      "12": {
         "posts": 1,
-        "words": 6,
-        "photo_only": 1
-      },
-      "04": {
-        "posts": 7,
-        "words": 106,
-        "photo_only": 3
-      },
-      "01": {
-        "posts": 2,
-        "words": 174,
+        "words": 117,
         "photo_only": 0
       }
     },
     "2017": {
-      "10": {
-        "posts": 2,
-        "words": 29,
-        "photo_only": 1
-      },
-      "09": {
+      "01": {
         "posts": 1,
-        "words": 234,
+        "words": 24,
         "photo_only": 0
       },
-      "08": {
-        "posts": 1,
-        "words": 6,
-        "photo_only": 1
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
       },
-      "07": {
-        "posts": 1,
-        "words": 6,
-        "photo_only": 1
-      },
-      "05": {
-        "posts": 2,
-        "words": 26,
+      "03": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "04": {
@@ -1923,26 +2124,56 @@
         "words": 137,
         "photo_only": 0
       },
-      "01": {
+      "05": {
+        "posts": 2,
+        "words": 26,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
         "posts": 1,
-        "words": 24,
+        "words": 6,
+        "photo_only": 1
+      },
+      "08": {
+        "posts": 1,
+        "words": 6,
+        "photo_only": 1
+      },
+      "09": {
+        "posts": 1,
+        "words": 234,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 2,
+        "words": 29,
+        "photo_only": 1
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       }
     },
     "2018": {
-      "12": {
-        "posts": 1,
-        "words": 64,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 1,
-        "words": 227,
-        "photo_only": 0
-      },
-      "04": {
+      "01": {
         "posts": 2,
-        "words": 161,
+        "words": 56,
+        "photo_only": 1
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "03": {
@@ -1950,51 +2181,56 @@
         "words": 31,
         "photo_only": 0
       },
-      "01": {
+      "04": {
         "posts": 2,
-        "words": 56,
-        "photo_only": 1
-      }
-    },
-    "2019": {
-      "12": {
-        "posts": 2,
-        "words": 63,
+        "words": 161,
         "photo_only": 0
       },
-      "11": {
-        "posts": 1,
-        "words": 68,
-        "photo_only": 0
-      },
-      "10": {
-        "posts": 4,
-        "words": 555,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 9,
-        "words": 547,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 3,
-        "words": 266,
+      "05": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "06": {
-        "posts": 3,
-        "words": 438,
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "04": {
-        "posts": 2,
-        "words": 170,
+      "07": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "03": {
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "10": {
         "posts": 1,
-        "words": 258,
+        "words": 230,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 1,
+        "words": 64,
+        "photo_only": 0
+      }
+    },
+    "2019": {
+      "01": {
+        "posts": 1,
+        "words": 53,
         "photo_only": 0
       },
       "02": {
@@ -2002,36 +2238,61 @@
         "words": 189,
         "photo_only": 0
       },
-      "01": {
+      "03": {
         "posts": 1,
-        "words": 53,
+        "words": 258,
         "photo_only": 0
-      }
-    },
-    "2020": {
-      "12": {
-        "posts": 4,
-        "words": 451,
+      },
+      "04": {
+        "posts": 2,
+        "words": 170,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 3,
+        "words": 438,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 3,
+        "words": 266,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 9,
+        "words": 547,
         "photo_only": 0
       },
       "10": {
         "posts": 4,
-        "words": 249,
+        "words": 555,
         "photo_only": 0
       },
-      "08": {
+      "11": {
         "posts": 1,
-        "words": 50,
+        "words": 68,
         "photo_only": 0
       },
-      "05": {
-        "posts": 2,
-        "words": 153,
-        "photo_only": 0
-      },
-      "04": {
+      "12": {
         "posts": 3,
-        "words": 438,
+        "words": 181,
+        "photo_only": 0
+      }
+    },
+    "2020": {
+      "01": {
+        "posts": 1,
+        "words": 17,
         "photo_only": 0
       },
       "02": {
@@ -2039,36 +2300,71 @@
         "words": 119,
         "photo_only": 0
       },
-      "01": {
-        "posts": 1,
-        "words": 17,
-        "photo_only": 0
-      }
-    },
-    "2021": {
-      "12": {
-        "posts": 2,
-        "words": 258,
+      "03": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "10": {
-        "posts": 2,
-        "words": 545,
-        "photo_only": 0
-      },
-      "08": {
+      "04": {
         "posts": 3,
-        "words": 192,
+        "words": 440,
         "photo_only": 0
       },
-      "07": {
+      "05": {
         "posts": 2,
         "words": 153,
         "photo_only": 0
       },
-      "05": {
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "08": {
         "posts": 1,
-        "words": 77,
+        "words": 50,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 4,
+        "words": 250,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 5,
+        "words": 556,
+        "photo_only": 0
+      }
+    },
+    "2021": {
+      "01": {
+        "posts": 1,
+        "words": 58,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "04": {
@@ -2076,21 +2372,91 @@
         "words": 96,
         "photo_only": 0
       },
-      "01": {
+      "05": {
         "posts": 1,
-        "words": 58,
+        "words": 78,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 2,
+        "words": 153,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 3,
+        "words": 192,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 2,
+        "words": 545,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 2,
+        "words": 259,
         "photo_only": 0
       }
     },
     "2022": {
-      "12": {
-        "posts": 3,
-        "words": 344,
+      "01": {
+        "posts": 1,
+        "words": 67,
         "photo_only": 0
       },
-      "11": {
-        "posts": 1,
-        "words": 169,
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "07": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 3,
+        "words": 448,
         "photo_only": 0
       },
       "10": {
@@ -2098,46 +2464,36 @@
         "words": 108,
         "photo_only": 0
       },
-      "09": {
-        "posts": 3,
-        "words": 447,
+      "11": {
+        "posts": 1,
+        "words": 169,
         "photo_only": 0
       },
-      "01": {
-        "posts": 1,
-        "words": 67,
+      "12": {
+        "posts": 3,
+        "words": 347,
         "photo_only": 0
       }
     },
     "2023": {
-      "12": {
-        "posts": 2,
-        "words": 497,
-        "photo_only": 0
-      },
-      "11": {
+      "01": {
         "posts": 1,
-        "words": 167,
+        "words": 189,
         "photo_only": 0
       },
-      "10": {
+      "02": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
         "posts": 1,
-        "words": 37,
-        "photo_only": 0
-      },
-      "08": {
-        "posts": 2,
-        "words": 116,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 1,
-        "words": 86,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 2,
-        "words": 377,
+        "words": 577,
         "photo_only": 0
       },
       "05": {
@@ -2145,36 +2501,66 @@
         "words": 1084,
         "photo_only": 0
       },
-      "04": {
-        "posts": 1,
-        "words": 567,
-        "photo_only": 0
-      },
-      "01": {
-        "posts": 1,
-        "words": 184,
-        "photo_only": 0
-      }
-    },
-    "2024": {
-      "11": {
-        "posts": 10,
-        "words": 1349,
-        "photo_only": 0
-      },
-      "09": {
-        "posts": 1,
-        "words": 618,
-        "photo_only": 0
-      },
-      "08": {
+      "06": {
         "posts": 2,
-        "words": 220,
+        "words": 411,
         "photo_only": 0
       },
       "07": {
         "posts": 1,
-        "words": 232,
+        "words": 86,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 2,
+        "words": 116,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 1,
+        "words": 37,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 1,
+        "words": 167,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 2,
+        "words": 497,
+        "photo_only": 0
+      }
+    },
+    "2024": {
+      "01": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "02": {
+        "posts": 2,
+        "words": 387,
+        "photo_only": 0
+      },
+      "03": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "04": {
+        "posts": 2,
+        "words": 235,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
       "06": {
@@ -2182,56 +2568,96 @@
         "words": 150,
         "photo_only": 0
       },
-      "04": {
-        "posts": 2,
-        "words": 233,
+      "07": {
+        "posts": 1,
+        "words": 232,
         "photo_only": 0
       },
-      "02": {
+      "08": {
         "posts": 2,
-        "words": 387,
+        "words": 220,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 1,
+        "words": 714,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 10,
+        "words": 1359,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       }
     },
     "2025": {
-      "09": {
-        "posts": 4,
-        "words": 856,
+      "01": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       },
-      "08": {
-        "posts": 17,
-        "words": 4622,
-        "photo_only": 0
-      },
-      "07": {
-        "posts": 15,
-        "words": 4568,
-        "photo_only": 0
-      },
-      "06": {
-        "posts": 45,
-        "words": 4092,
-        "photo_only": 4
-      },
-      "05": {
-        "posts": 21,
-        "words": 3435,
-        "photo_only": 0
-      },
-      "04": {
-        "posts": 12,
-        "words": 3551,
+      "02": {
+        "posts": 20,
+        "words": 2830,
         "photo_only": 0
       },
       "03": {
         "posts": 16,
-        "words": 3731,
+        "words": 3840,
         "photo_only": 1
       },
-      "02": {
-        "posts": 20,
-        "words": 2739,
+      "04": {
+        "posts": 12,
+        "words": 3735,
+        "photo_only": 0
+      },
+      "05": {
+        "posts": 21,
+        "words": 3780,
+        "photo_only": 0
+      },
+      "06": {
+        "posts": 45,
+        "words": 5220,
+        "photo_only": 3
+      },
+      "07": {
+        "posts": 15,
+        "words": 5178,
+        "photo_only": 0
+      },
+      "08": {
+        "posts": 17,
+        "words": 5060,
+        "photo_only": 0
+      },
+      "09": {
+        "posts": 4,
+        "words": 885,
+        "photo_only": 0
+      },
+      "10": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "11": {
+        "posts": 0,
+        "words": 0,
+        "photo_only": 0
+      },
+      "12": {
+        "posts": 0,
+        "words": 0,
         "photo_only": 0
       }
     }
@@ -2243,7 +2669,7 @@
       "date": "2025-02-20",
       "year": 2025,
       "month": "02",
-      "words": 1351,
+      "words": 1361,
       "is_photo_only": false,
       "feed_source": "Comprehensive Full Fetch"
     },
@@ -2253,27 +2679,17 @@
       "date": "2025-04-19",
       "year": 2025,
       "month": "04",
-      "words": 1112,
+      "words": 1127,
       "is_photo_only": false,
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Healthcare Should Be Universal",
-      "url": "https://www.michaelponders.com/2025/03/healthcare-should-be-universal.html",
-      "date": "2025-03-30",
+      "title": "Tracing Roots Lost to War",
+      "url": "https://www.michaelponders.com/2025/06/tracing-roots-lost-to-war.html",
+      "date": "2025-06-22",
       "year": 2025,
-      "month": "03",
-      "words": 955,
-      "is_photo_only": false,
-      "feed_source": "Comprehensive Full Fetch"
-    },
-    {
-      "title": "A Programming Journey with AI: What They Don't Tell You",
-      "url": "https://www.michaelponders.com/2025/03/a-programming-journey-with-ai-what-they.html",
-      "date": "2025-03-09",
-      "year": 2025,
-      "month": "03",
-      "words": 930,
+      "month": "06",
+      "words": 1015,
       "is_photo_only": false,
       "feed_source": "Comprehensive Full Fetch"
     },
@@ -2283,7 +2699,17 @@
       "date": "2025-07-03",
       "year": 2025,
       "month": "07",
-      "words": 909,
+      "words": 988,
+      "is_photo_only": false,
+      "feed_source": "Comprehensive Full Fetch"
+    },
+    {
+      "title": "Healthcare Should Be Universal",
+      "url": "https://www.michaelponders.com/2025/03/healthcare-should-be-universal.html",
+      "date": "2025-03-30",
+      "year": 2025,
+      "month": "03",
+      "words": 960,
       "is_photo_only": false,
       "feed_source": "Comprehensive Full Fetch"
     }
@@ -2300,7 +2726,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Blog Post from 12/25/2008",
+      "title": "Happy Birthday Jesus.",
       "url": "https://www.michaelponders.com/2008/12/happy-birthday-jesus.html",
       "date": "2008-12-25",
       "year": 2008,
@@ -2310,7 +2736,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Blog Post from 06/10/2009",
+      "title": "Slow night at UCH.",
       "url": "https://www.michaelponders.com/2009/06/slow-night-at-uch.html",
       "date": "2009-06-10",
       "year": 2009,
@@ -2320,7 +2746,7 @@
       "feed_source": "Comprehensive Full Fetch"
     },
     {
-      "title": "Blog Post from 02/15/2005",
+      "title": "Working overtime. Nothing else new.",
       "url": "https://www.michaelponders.com/2005/02/working-overtime.html",
       "date": "2005-02-15",
       "year": 2005,
