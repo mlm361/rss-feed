@@ -4,5 +4,17 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">📺 This TV Week’s Watchlist</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist-fh21?pk_campaign=rss-feed</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;🎬 &lt;strong&gt;Star Trek: Strange New Worlds&lt;/strong&gt; – Season 3, Episodes 5-10 (Season Finale) ⭐⭐⭐
+&lt;em&gt;May contain spoilers!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This season was a mixed bag. I believe this series has great potential, but I question the structure and plot of some episodes this season. For instance, the season finale should have been a two-parter, episodes 8 and 9, with episode 10 serving as a proper season close-out. Alternatively, if they wanted to maintain its current position, they could have extended the season to 12 episodes, making this story arc a two-parter, episodes 10 and 11, then having a proper close-out as episode 12 as a look back over the season and what to look forward to.
+I struggle to understand this new streaming series format of producing only 8 or 10 episodes for the entire year, a point I have raised and complained about in past posts.
+TV series, when they were broadcast over the air or on cable, typically produced 20 to 24 episodes that aired from September through May, followed by summer reruns. The new streaming era, however, is characterized by shorter seasons with a year or more between new seasons.
+Returning to the season finale, it felt rushed and anticlimactic. So a mixed bag this year. Hoping Season 4 will be better and more true to the series as it hopefully concludes handing off to Star Trek The Original Series. 🎬&lt;/p&gt;&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-tv-weeks-watchlist-fh21</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Fri, 12 Sep 2025 03:35:03 +0000</pubDate>
+    </item>
   </channel>
 </rss>
