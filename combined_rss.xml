@@ -4,5 +4,19 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Tired of AI Spam Calls Offering Loans</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/tired-of-ai-spam-calls-offering-loans?pk_campaign=rss-feed</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;img alt="Image of a smartphone displaying a scam alert call with neon signs of a robotic head and texts &amp;amp;quot;AI Voice Cloning&amp;amp;quot; and &amp;amp;quot;Robocall Scams.&amp;amp;quot;" src="https://i.snap.as/zsIGAfTS.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;🚨 AI voice cloning + robocall scams are rising—don’t fall for fake loan calls!&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;For nearly a month now, I've been getting a phone call almost every day from numbers all over the U.S., numbers I don't recognize at all. I've only answered twice: the first time it was a female voice, and the second time a male voice. Both were obviously AI-generated, pitching some kind of personal loan.&lt;/p&gt;
+&lt;p&gt;If I don't answer, they leave a voicemail instead. I started blocking some of the numbers, but stopped once I realized they're clearly spoofed and completely random.&lt;/p&gt;
+&lt;p&gt;Here's the most recent voicemail recording:&lt;/p&gt;
+&lt;p&gt;&lt;audio controls="" preload="metadata"&gt; &lt;source src="https://mitchelltribe.com/uploads/2025/spamaivm.mp3" type="audio/mpeg"/&gt;   Your browser doesn't support the audio element. &lt;/audio&gt; &lt;p&gt;&lt;a href="https://mitchelltribe.com/uploads/2025/spamaivm.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;The good news is that the FCC has unanimously approved a Declaratory Ruling that recognizes calls made with AI-generated voices are “artificial” under the Telephone Consumer Protection Act (TCPA) &lt;a href="https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal"&gt;FCC Makes AI-Generated Voices in Robocalls Illegal | Federal Communications Commission&lt;/a&gt;, making calls using voice cloning technologies illegal unless a consumer had expressly given their consent to receive the call &lt;a href="https://www.cooley.com/news/insight/2024/2024-02-15-fcc-ai-generated-robocalls-illegal-under-the-tcpa"&gt;FCC: AI-Generated Robocalls Illegal Under the TCPA&lt;/a&gt;.  You can report them at &lt;a href="https://consumercomplaints.fcc.gov/hc/en-us"&gt;FCC Complaints&lt;/a&gt; where filing a consumer complaint helps contribute to federal enforcement and consumer protection efforts on a national scale.&lt;/p&gt;
+&lt;p&gt;I really wish the FTC and FCC would crack down harder on this, and I think the carriers should be doing more, too. Especially since they have these laws at their disposal. I know it is frustrating me to no end. I guess it could be worse, like getting more than one call a day.&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/tired-of-ai-spam-calls-offering-loans</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Sun, 14 Sep 2025 20:33:52 +0000</pubDate>
+    </item>
   </channel>
 </rss>
