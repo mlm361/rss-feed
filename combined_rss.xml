@@ -4,12 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">One more test post</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/one-more-test-post?pk_campaign=rss-feed</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;This post will be deleted. Test snap.as deletion.&lt;/p&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/one-more-test-post</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Thu, 18 Sep 2025 13:33:35 +0000</pubDate>
-    </item>
   </channel>
 </rss>
