@@ -4,5 +4,36 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Michael's Journal</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">The Star Trek Computer: My Vision for AI</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/the-star-trek-computer-my-vision-for-ai/</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;figure class="captioned"&gt;
+&lt;img alt="A human conductor stands on a podium, baton raised, directing a futuristic orchestra of humanoid robots with glowing blue accents. The robots sit in traditional orchestral formation with violins, cellos, and other instruments. Through the large curved observation window behind them, the saucer section and nacelles of a Federation starship resembling the USS Enterprise are visible against the backdrop of deep space. The walls of the starship interior feature subtle LCARS-style glowing panels." src="https://michaels-journal.pages.dev/uploads/ship-bridge_robot-orchestra_enterprise-closer_08.png" width="600"/&gt;
+&lt;figcaption&gt;
+    A conductor leads a robotic orchestra aboard a starship, with the USS Enterprise framed through the observation deck windows.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Computer: Personal log, Stardate: Current.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I want AI that resembles two distinct concepts, not the general artificial intelligence (AGI) that others are trying to create. I envision AI to be like the &lt;em&gt;Star Trek&lt;/em&gt; computer and helpful robots like Robby the Robot from &lt;em&gt;Forbidden Planet&lt;/em&gt; or Sonny from &lt;em&gt;I, Robot&lt;/em&gt;, without any violent programming. I also want a robot companion like the one from &lt;em&gt;Red Planet&lt;/em&gt;. I do not want androids, cyborgs, or anything in between.&lt;/p&gt;&lt;!--more--&gt;
+&lt;p&gt;I have listened to Ed Zitron and read a post from Greg Morris, who think AI systems are merely slop machines and a fad "word salad" generator.&lt;sup class="footnote-reference"&gt;&lt;a href="#1"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am having to proactively ask others not to send me AI slop to make my life easier. If I am having to rewrite the shallow nonsense that every LLM produces anyway, I might as well just do it myself from scratch.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, I believe AI is useful. I am using these services as &lt;strong&gt;tools&lt;/strong&gt;, and you have to look at them that way. I am not a coder, so I use these machines to accomplish what I want. I do not care if the resulting programs are long and "slop," as long as they perform the intended task and pose no security problems. Modern computers and software can easily handle code that is not perfectly efficient. I believe that within five years, AI will have coding mastered and will be able to fix all the "slop code" it might be producing today.&lt;/p&gt;
+&lt;p&gt;Greg Morris's frustration is understandable. He has spent decades building his skills as a designer and communicator, and now he has to deal with people sending him AI-generated "slop" content that he has to rewrite. Ed Zitron raises similar concerns about "slop code," arguing that AI-generated code is unreliable and that LLMs cannot be trusted to do the same thing every time.&lt;sup class="footnote-reference"&gt;&lt;a href="#2"&gt;2&lt;/a&gt;&lt;/sup&gt; Both critiques are valid, particularly when AI outputs are passed off as professional work or sent to professionals who then have to fix them. However, I am not claiming to be a designer or coder, nor am I sending AI-generated work to professionals. I am using AI to build things for myself that I wouldn't otherwise be able to create or pay to have created.&lt;/p&gt;
+&lt;p&gt;Shows like &lt;em&gt;Star Wars&lt;/em&gt;, &lt;em&gt;Star Trek&lt;/em&gt;, and &lt;em&gt;Aliens&lt;/em&gt; all have AI that is very advanced, yet the technology remains in the background rather than replacing humans entirely. They have androids, synthetics, holograms, hyperspace travel, and computers that navigate across galaxies. But computers do not run everything. Humans fly the ships, make the decisions, and win the battles. The computer in &lt;em&gt;Star Trek&lt;/em&gt; is the way I see AI eventually being: always accessible, able to perform any task asked of it, capable of writing flawless code, but humans remain at the heart of technology.&lt;/p&gt;
+&lt;p&gt;Humans will be the conductor and the AI will be the orchestra. This is how I want my AI to be for the future: not replacing humans but supporting us.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Computer: End Personal log.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;div class="footnote-definition" id="1"&gt;&lt;sup class="footnote-definition-label"&gt;1&lt;/sup&gt;
+&lt;p&gt;Greg Morris, &lt;em&gt;I Did It Myself&lt;/em&gt;, https://gregmorris.co.uk/2025/09/24/i-did-it-myself.html&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="footnote-definition" id="2"&gt;&lt;sup class="footnote-definition-label"&gt;2&lt;/sup&gt;
+&lt;p&gt;Ed Zitron, &lt;em&gt;The Case Against Generative AI&lt;/em&gt;, https://www.wheresyoured.at/the-case-against-generative-ai/&lt;/p&gt;
+&lt;/div&gt;
+</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/the-star-trek-computer-my-vision-for-ai/</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Thu, 02 Oct 2025 07:35:00 -0400</pubDate>
+    </item>
   </channel>
 </rss>
