@@ -4,5 +4,18 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Kudos, Connections, and Continued Progress</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/kudos-connections-and-continued-progress?pk_campaign=rss-feed</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;I’ve made more progress on my blog poster program. I’m doing a few minor changes and adding new features before moving on to another service/platform. The images haven’t changed since my last post, so there are no new ones this time.&lt;/p&gt;
+&lt;p&gt;I added a Kudos button to my Write.as custom domain, michaelmitchell.blog. It’s powered by Tinylytics. I’ll probably be adding more features soon and doing some digital gardening along the way.
+&lt;/p&gt;&lt;!--more--&gt;
+&lt;p&gt;I also updated my Personal Events social media poster project.
+&lt;img alt='Screenshot of a social media management interface titled "Create New Post" with fields for entering a message, selecting emojis, and tagging. The interface shows character limits for different platforms like Mastodon, Sharkey, Bluesky, and Nostr. Below, there are options for AI writing tools and image uploads, along with toggles for selecting which platforms to post on, indicating connection statuses for Bluesky, Mastodon, Nostr, and Sharkey.' src="https://i.snap.as/2GKHxbof.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Streamline your social media management with a versatile platform that allows simultaneous posting across multiple networks.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;I hope to finish all the refinements and additions by the end of February. I’m taking it slow and thoroughly testing each connection to make sure every post, no matter the content, looks consistent across all platforms. Someday, I know I’ll settle on just one platform. But for now, I’m enjoying the process.&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/kudos-connections-and-continued-progress</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Thu, 09 Oct 2025 01:46:16 +0000</pubDate>
+    </item>
   </channel>
 </rss>
