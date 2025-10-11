@@ -4,13 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">This is a test post and will be deleted after editing</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-is-a-test-post-and-will-be-deleted-after-editing?pk_campaign=rss-feed</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;NEW CHANGE TO SEE IF EDITING works. This is a test post and will be deleted after being edited and uploaded. &lt;img alt="A fan of color swatches in various shades of green, blue, gray, and orange arranged in a semicircle on a white surface, with a blank white card in the center and a spiral notebook to the right." src="/api/uploads/20251011_163341_0f19213342dd.png"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;Exploring shades of creativity with a spectrum of color swatches and a blank canvas for endless possibilities.&lt;/small&gt;&lt;/p&gt;&lt;!--more--&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/this-is-a-test-post-and-will-be-deleted-after-editing</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Sat, 11 Oct 2025 20:37:13 +0000</pubDate>
-    </item>
   </channel>
 </rss>
