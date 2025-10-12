@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2025-10-12T15:27:43.336972+00:00",
+  "generated_at": "2025-10-12T15:32:58.659150+00:00",
   "source": "Incremental Update (Normalized & Validated)",
   "update_frequency": "Weekly incremental updates",
-  "note": "Updated with 1 new posts, normalized to schema v2",
+  "note": "Updated with 0 new posts, normalized to schema v2",
   "total_posts": 11,
   "total_words": 6478,
   "total_photo_only_posts": 1,
