@@ -4,5 +4,23 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">🍿 Watched Star Trek (2009)</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/watched-star-trek-2009?pk_campaign=rss-feed</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;⚠️ &lt;strong&gt;SPOILER WARNING:&lt;/strong&gt; NO SPOILERS&lt;/p&gt;&lt;!--more--&gt;
+&lt;p&gt;&lt;img alt='Promotional poster for the movie "Star Trek" featuring three main characters with intense expressions. The central figure is a young man with a determined look, flanked by a woman on the left and another man on the right, all set against a cosmic, starry background with the movie title in bold white letters at the bottom.' src="/api/uploads/tmdb_9ce57676135c.jpg" title='Promotional poster for the movie "Star Trek" featuring three main characters with intense expressions. The central figure is a young man with a determined look, flanked by a woman on the left and another man on the right, all set against a cosmic, starry background with the movie title in bold white letters at the bottom.'/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My Rating:&lt;/strong&gt; ⭐⭐⭐⭐½ (4.5/5 stars)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3 id="final-verdict"&gt;Final Verdict&lt;/h3&gt;
+&lt;p&gt;Good this is a test post will be edited and deleted.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;div style="text-align: center; padding: 10px; margin-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #666;"&gt;
+&lt;img alt="TMDb" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" style="height: 20px; vertical-align: middle; margin-right: 8px;"/&gt;
+  This product uses the TMDb API but is not endorsed or certified by &lt;a href="https://www.themoviedb.org" style="color: #01b4e4; text-decoration: none;" target="_blank"&gt;TMDb&lt;/a&gt;.
+&lt;/div&gt;
+&lt;p&gt;&lt;a class="hashtag" href="https://michaelmitchell.blog/tag:movies"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;movies&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:review"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;review&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/watched-star-trek-2009</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Sat, 18 Oct 2025 18:44:24 +0000</pubDate>
+    </item>
   </channel>
 </rss>
