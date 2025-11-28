@@ -5,14 +5,13 @@
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
     <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">test message and will be deleted</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/test-message-and-will-be-deleted/</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;img alt="A fan of color swatches in various shades of green, blue, gray, and orange arranged in a semicircle on a white surface, with a blank white card in the center and a spiral notebook partially visible on the right side." src="https://michaels-journal.pages.dev/api/uploads/828c3f8685fd.png"/&gt;&lt;/p&gt;
-&lt;figcaption&gt;A spectrum of choices: from earthy tones to cool hues, every color tells a story.&lt;/figcaption&gt;
-&lt;p&gt;This is a test message and will be deleted.&lt;/p&gt;
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">This is a test file and wil be deleted</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/this-is-a-test-file-and-wil-be-deleted/</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;img alt="Feature image" src="https://michaels-journal.pages.dev/api/uploads/bd01cb410bed.png"/&gt;&lt;/p&gt;
+&lt;p&gt;Test post and will be deleted. &lt;a href="https://michaelponders.com"&gt;https://michaelponders.com&lt;/a&gt;&lt;/p&gt;
 </description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/test-message-and-will-be-deleted/</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Fri, 28 Nov 2025 16:52:26 +0000</pubDate>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/this-is-a-test-file-and-wil-be-deleted/</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Fri, 28 Nov 2025 17:40:56 +0000</pubDate>
       <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
     </item>
   </channel>
