@@ -4,14 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Combined RSS Feed</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Write.as blog posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">December 2, 2025</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/december-2-2025?pk_campaign=rss-feed</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;img alt="A vibrant sunrise sky in fiery shades of orange and red, with silhouettes of bare, twisted tree branches overhanging a dark roof." src="https://i.snap.as/Mb2hxfXo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;Morning blaze: Silhouetted branches against a fiery sunrise sky, painting a dramatic beginning to the day.&lt;/small&gt;&lt;/p&gt;&lt;!--more--&gt;
-&lt;p&gt;&lt;a class="hashtag" href="https://michaelmitchell.blog/tag:photography"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;photography&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:photos"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;photos&lt;/span&gt;&lt;/a&gt; &lt;a class="hashtag" href="https://michaelmitchell.blog/tag:landscape"&gt;&lt;span&gt;#&lt;/span&gt;&lt;span class="p-category"&gt;landscape&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmitchell.blog/december-2-2025</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Tue, 02 Dec 2025 18:23:39 +0000</pubDate>
-    </item>
   </channel>
 </rss>

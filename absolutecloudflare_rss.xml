@@ -4,14 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Michael's Journal</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">December 2, 2025</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/december-2-2025/</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;img alt="A vibrant sunrise sky in fiery shades of orange and red, with silhouettes of bare, twisted tree branches overhanging a dark roof." src="https://michaels-journal.pages.dev/uploads/844f082861f7.jpg" width="600"/&gt;
-&lt;figcaption&gt;Morning blaze: Silhouetted branches against a fiery sunrise sky, painting a dramatic beginning to the day.&lt;/figcaption&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/december-2-2025/</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Tue, 02 Dec 2025 13:27:59 +0000</pubDate>
-      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
-    </item>
   </channel>
 </rss>
