@@ -4,5 +4,13 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Scribbles Posts</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmusings.com/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Posts from Scribbles.page</description>
+    <item>
+      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Test for Scribbles</title>
+      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmusings.com/post/test-for-sccribbles</link>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;This is a test post for Scribbles and will be edited and deleted. Edited.&lt;/p&gt;</description>
+      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">tag:michaelmusings.com,2005:Post/14569</guid>
+      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Sat, 13 Dec 2025 00:26:10 +0000</pubDate>
+      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
+    </item>
   </channel>
 </rss>
