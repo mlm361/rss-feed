@@ -4,17 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Scribbles Posts</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmusings.com/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Posts from Scribbles.page</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Utilizing Python to Streamline Social Media Interactions</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaelmusings.com/post/utilizing-python-to-streamline-social-media-interactions</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;In recent months, I've been building a social media aggregation platform using the Windsurf AI IDE. The platform displays a multimedia timeline that pulls content from Mastodon, Bluesky, Sharkey, Nostr, and Micro.blog. The goal was to centralize my social media interactions in one location instead of checking multiple sites.&lt;/p&gt;
-&lt;p&gt;Developed in Python using AI coding assistants (Claude and ChatGPT 5.2 High Reasoning) to accelerate development, I designed the platform structure and verified the implementation through testing. The screenshot shows the current interface. Some posts appear duplicated because I follow the same people across multiple platforms.&lt;/p&gt;&lt;!--more--&gt;
-&lt;p&gt;&lt;img alt="A long, vertical screenshot showing a series of Facebook posts in a news feed. The posts include various types of content such as text updates, shared articles, and images, each accompanied by reactions and comments from other users. The interface elements like the navigation bar, search bar, and user icons are visible, typical of the Facebook platform." src="https://mitchelltribe.com/api/uploads/4e425b7596c4.png"/&gt;&lt;/p&gt;
-&lt;p&gt;[CAPTION]Scrolling through digital snippets: a glimpse into the diverse and dynamic world of online content.[/CAPTION&lt;/p&gt;
-&lt;p&gt;The platform works well and I appreciate having one central location to read and respond to posts. There are occasional bugs to fix and a few features left to implement, but it serves its purpose.&lt;/p&gt;</description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">tag:michaelmusings.com,2005:Post/14593</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Mon, 15 Dec 2025 00:32:55 +0000</pubDate>
-      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
-    </item>
   </channel>
 </rss>

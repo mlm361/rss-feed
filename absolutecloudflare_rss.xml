@@ -4,13 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Michael's Journal</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Utilizing Python to Streamline Social Media Interactions</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/utilizing-python-to-streamline-social-media-interactions/</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/"></description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/utilizing-python-to-streamline-social-media-interactions/</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Sun, 14 Dec 2025 19:37:05 +0000</pubDate>
-      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
-    </item>
   </channel>
 </rss>
