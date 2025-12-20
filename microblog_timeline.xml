@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Mitchell Tribe Timeline</title>
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Dec 2025 12:00:41 +0000</lastBuildDate>
     <ns0:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115751783076606224</guid>
-      <link>https://mitchelltribe.social/@michael/115751783076606224</link>
-      <pubDate>Sat, 20 Dec 2025 12:00:41 +0000</pubDate>
-      <description>&lt;p&gt;First light brings your morning forecast! ☀️&lt;/p&gt;&lt;p&gt;☀️ Zero rain chance forecasted for today&lt;/p&gt;&lt;p&gt;☀️ Current conditions in Brandon, FL:&lt;br /&gt;☀️ Clear, 52°F (feels like 50°F)&lt;br /&gt;💧 Humidity: 67%&lt;br /&gt;🌬️ Wind: 8 mph NE&lt;br /&gt;UV Index: 0 🟢 (Low)&lt;br /&gt;AQI: 1 😊 (Good)&lt;/p&gt;&lt;p&gt;Forecast for 1 PM:&lt;br /&gt;☀️ Sunny, 70°F&lt;br /&gt;💧 Humidity: 42%&lt;br /&gt;🌧️ Precipitation Chance: 0%&lt;br /&gt;UV Index: 5 🟡 (Moderate)&lt;br /&gt;&lt;a href="https://mitchelltribe.social/tags/Weather" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Weather&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Automated&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Clear" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Clear&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <ns1:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/751/782/671/537/114/original/228c64d30fc7cbad.mp4" type="video/mp4" fileSize="56030" medium="image">
-        </ns1:content>
-      <category>Weather</category>
-      <category>Automated</category>
-      <category>clear</category>
-    </item>
   </channel>
 </rss>
