@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Mitchell Tribe Timeline</title>
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2025 10:00:21 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115756972200931770</guid>
+      <link>https://mitchelltribe.social/@michael/115756972200931770</link>
+      <pubDate>Sun, 21 Dec 2025 10:00:21 +0000</pubDate>
+      <description>&lt;p&gt;🌅 Brandon, FL Sunday Sky Report - Sunday, December 21, 2025 🌅&lt;/p&gt;&lt;p&gt;🌅 Sunrise: 07:17 AM&lt;br /&gt;🌇 Sunset: 05:39 PM&lt;br /&gt;☀️ Daylight: 10h 22m&lt;br /&gt;🌒 Moon Phase: Waxing Crescent (1% illuminated)&lt;br /&gt;🌒 Moon&amp;#39;s approximate distance from Earth: 384,400 km&lt;/p&gt;&lt;p&gt;&lt;a href="https://mitchelltribe.social/tags/SundaySky" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;SundaySky&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Astronomy" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Astronomy&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Automated&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <ns1:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/756/971/743/828/580/original/85878cc5cae75a8f.mp4" type="video/mp4" fileSize="40586" medium="image">
+        </ns1:content>
+      <category>SundaySky</category>
+      <category>astronomy</category>
+      <category>Automated</category>
+    </item>
   </channel>
 </rss>
