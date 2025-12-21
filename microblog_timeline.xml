@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Mitchell Tribe Timeline</title>
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2025 00:00:55 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115754615117494484</guid>
+      <link>https://mitchelltribe.social/@michael/115754615117494484</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:55 +0000</pubDate>
+      <description>&lt;p&gt;🌑 New Moon Alert: The night sky is at its darkest!&lt;/p&gt;&lt;p&gt;🌑 Current Phase: New Moon&lt;br /&gt;🕐 Tonight: Moonrise 07:56 AM, Moonset 06:06 PM&lt;/p&gt;&lt;p&gt;🔄 Next Phase: First Quarter on December 27, 2025&lt;br /&gt;🌕 Next Full Moon: January 03, 2026&lt;br /&gt;🌑 Next New Moon: January 18, 2026&lt;/p&gt;&lt;p&gt;📅 Next Week&amp;#39;s Moon Events:&lt;br /&gt;  • First Quarter: December 27, 2025&lt;/p&gt;&lt;p&gt;&lt;a href="https://mitchelltribe.social/tags/MoonPhase" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;MoonPhase&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Astronomy" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Astronomy&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Automated&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/NewMoon" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NewMoon&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <ns1:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/754/614/741/950/055/original/de92cd2d572032ee.mp4" type="video/mp4" fileSize="35237" medium="image">
+        </ns1:content>
+      <category>MoonPhase</category>
+      <category>astronomy</category>
+      <category>Automated</category>
+      <category>newmoon</category>
+    </item>
   </channel>
 </rss>
