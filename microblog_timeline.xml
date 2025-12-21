@@ -5,6 +5,16 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2025 13:00:48 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115757681783816221</guid>
+      <link>https://mitchelltribe.social/@michael/115757681783816221</link>
+      <pubDate>Sun, 21 Dec 2025 13:00:48 +0000</pubDate>
+      <description>&lt;p&gt;🌅 Week December 22–27, 2025 Sunrise and Sunset Schedule for Brandon, FL 🌅&lt;/p&gt;&lt;p&gt;🌒 Current Moon Phase: Waxing Crescent (1% illuminated)&lt;br /&gt;🌍 Moon&amp;#39;s distance from Earth: 384,400 km (238,855 mi)&lt;/p&gt;&lt;p&gt;Daylight remaining fairly consistent&lt;/p&gt;&lt;p&gt;Mon: 🌅 07:17 AM / 🌇 05:39 PM&lt;br /&gt;Tue: 🌅 07:17 AM / 🌇 05:40 PM&lt;br /&gt;Wed: 🌅 07:17 AM / 🌇 05:39 PM&lt;br /&gt;Thu: 🌅 07:17 AM / 🌇 05:39 PM&lt;br /&gt;Fri: 🌅 07:17 AM / 🌇 05:39 PM&lt;br /&gt;Sat: 🌅 07:17 AM / 🌇 05:39 PM 🌓 First Quarter&lt;/p&gt;&lt;p&gt;&lt;a href="https://mitchelltribe.social/tags/Astronomy" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Astronomy&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Automated&lt;/span&gt;&lt;/a&gt; &lt;a href="https://mitchelltribe.social/tags/SunriseSunset" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;SunriseSunset&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>astronomy</category>
+      <category>Automated</category>
+      <category>sunrisesunset</category>
+    </item>
   </channel>
 </rss>
