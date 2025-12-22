@@ -5,6 +5,13 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2025 01:59:07 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115760742229477021</guid>
+      <link>https://mitchelltribe.social/@michael/115760742229477021</link>
+      <pubDate>Mon, 22 Dec 2025 01:59:07 +0000</pubDate>
+      <description>&lt;p&gt;Finally getting stuff done&lt;/p&gt;&lt;p&gt;This weekend was quite productive for me! I managed to put together the Pironman5 Max and install a 16GB Raspberry Pi 5, and I also moved my 1TB NVMe drive from my old 8GB Pironman5, which served my h&lt;/p&gt;&lt;p&gt;&lt;a href="https://mitchelltribe.com/2025/12/21/finally-getting-stuff-done/" target="_blank" rel="nofollow noopener" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;mitchelltribe.com/2025/12/21/f&lt;/span&gt;&lt;span class="invisible"&gt;inally-getting-stuff-done/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
