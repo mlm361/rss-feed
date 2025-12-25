@@ -5,6 +5,19 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Thu, 25 Dec 2025 12:00:52 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115780095329522967</guid>
+      <link>https://mitchelltribe.social/@michael/115780095329522967</link>
+      <pubDate>Thu, 25 Dec 2025 12:00:52 +0000</pubDate>
+      <description>Wakey wakey! Time for your morning forecast! ☀️☀️ Zero rain chance forecasted for today🌫️ Current conditions in Brandon, FL:🌫️ Mist, 57°F (feels like 57°F)💧 Humidity: 100%🌬️ Wind: 4 mph NNEUV Index: 0 🟢 (Low)AQI: 1 😊 (Good)Forecast for 1 PM:☀️ Sunny, 78°F💧 Humidity: 48%🌧️ Precipi...</description>
+      <{http://search.yahoo.com/mrss/}content>
+        </{http://search.yahoo.com/mrss/}content>
+      <category>Weather</category>
+      <category>Automated</category>
+      <category>mist</category>
+      <content:encoded><![CDATA[<p>Wakey wakey! Time for your morning forecast! ☀️</p><p>☀️ Zero rain chance forecasted for today</p><p>&#127787;️ Current conditions in Brandon, FL:<br />&#127787;️ Mist, 57°F (feels like 57°F)<br />&#128167; Humidity: 100%<br />&#127788;️ Wind: 4 mph NNE<br />UV Index: 0 &#128994; (Low)<br />AQI: 1 &#128522; (Good)</p><p>Forecast for 1 PM:<br />☀️ Sunny, 78°F<br />&#128167; Humidity: 48%<br />&#127783;️ Precipitation Chance: 0%<br />UV Index: 4 &#128993; (Moderate)<br /><a href="https://mitchelltribe.social/tags/Weather" class="mention hashtag" rel="tag">#<span>Weather</span></a> <a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag">#<span>Automated</span></a> <a href="https://mitchelltribe.social/tags/Mist" class="mention hashtag" rel="tag">#<span>Mist</span></a></p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
