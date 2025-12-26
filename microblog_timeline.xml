@@ -5,6 +5,18 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Fri, 26 Dec 2025 12:01:03 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115785758407528772</guid>
+      <link>https://mitchelltribe.social/@michael/115785758407528772</link>
+      <pubDate>Fri, 26 Dec 2025 12:01:03 +0000</pubDate>
+      <description>Top of the morning to you! for Brandon, FL☀️ Zero rain chance forecasted for today🌫️ Current conditions in Brandon, FL:🌫️ Fog, 57°F (feels like 58°F)💧 Humidity: 94%🌬️ Wind: 4 mph NNWUV Index: 0 🟢 (Low)AQI: 1 😊 (Good)Forecast for 1 PM:☀️ Sunny, 74°F💧 Humidity: 61%🌧️ Precipitation ...</description>
+      <category>Weather</category>
+      <category>Automated</category>
+      <category>fog</category>
+      <content:encoded><![CDATA[<p>Top of the morning to you! for Brandon, FL</p><p>☀️ Zero rain chance forecasted for today</p><p>&#127787;️ Current conditions in Brandon, FL:<br />&#127787;️ Fog, 57°F (feels like 58°F)<br />&#128167; Humidity: 94%<br />&#127788;️ Wind: 4 mph NNW<br />UV Index: 0 &#128994; (Low)<br />AQI: 1 &#128522; (Good)</p><p>Forecast for 1 PM:<br />☀️ Sunny, 74°F<br />&#128167; Humidity: 61%<br />&#127783;️ Precipitation Chance: 0%<br />UV Index: 4 &#128993; (Moderate)<br /><a href="https://mitchelltribe.social/tags/Weather" class="mention hashtag" rel="tag">#<span>Weather</span></a> <a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag">#<span>Automated</span></a> <a href="https://mitchelltribe.social/tags/Fog" class="mention hashtag" rel="tag">#<span>Fog</span></a></p>]]></content:encoded>
+      <media:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/785/757/980/327/976/original/a486238059afba30.mp4" type="video/mp4" fileSize="52722" medium="image"/>
+    </item>
   </channel>
 </rss>
