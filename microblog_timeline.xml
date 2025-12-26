@@ -5,19 +5,6 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Dec 2025 23:53:41 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115782898283401198</guid>
-      <link>https://mitchelltribe.social/@michael/115782898283401198</link>
-      <pubDate>Thu, 25 Dec 2025 23:53:41 +0000</pubDate>
-      <description>Merry Christmas 🎄 from my dad, mom, and me to you and your family this 2025 🎉. Remember the reason for the season, Jesus 🙏! #MerryChristmas #HolidaySeason #HappyBirthdayJesus</description>
-      <{http://search.yahoo.com/mrss/}content>
-        </{http://search.yahoo.com/mrss/}content>
-      <category>merrychristmas</category>
-      <category>holidayseason</category>
-      <category>happybirthdayjesus</category>
-      <content:encoded><![CDATA[<p>Merry Christmas &#127876; from my dad, mom, and me to you and your family this 2025 &#127881;. Remember the reason for the season, Jesus &#128591;! <a href="https://mitchelltribe.social/tags/MerryChristmas" class="mention hashtag" rel="tag">#<span>MerryChristmas</span></a> <a href="https://mitchelltribe.social/tags/HolidaySeason" class="mention hashtag" rel="tag">#<span>HolidaySeason</span></a> <a href="https://mitchelltribe.social/tags/HappyBirthdayJesus" class="mention hashtag" rel="tag">#<span>HappyBirthdayJesus</span></a></p>]]></content:encoded>
-    </item>
   </channel>
 </rss>
