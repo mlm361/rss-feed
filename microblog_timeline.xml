@@ -5,19 +5,6 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 02:00:30 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115789059226781885</guid>
-      <link>https://mitchelltribe.social/@michael/115789059226781885</link>
-      <pubDate>Sat, 27 Dec 2025 02:00:30 +0000</pubDate>
-      <description>🌒 The moon&#39;s showing just a hint of itself tonight!🌒 Current Phase: Waxing Crescent (31% illuminated)🕐 Tonight: Moonrise 11:41 AM, Moonset 11:57 PM🔄 Next Phase: First Quarter on December 27, 2025🌕 Next Full Moon: January 03, 2026🌑 Next New Moon: January 18, 2026📅 This Week&#39;s Moon...</description>
-      <category>MoonPhase</category>
-      <category>astronomy</category>
-      <category>Automated</category>
-      <category>WaxingCrescent</category>
-      <content:encoded><![CDATA[<p>&#127762; The moon&#39;s showing just a hint of itself tonight!</p><p>&#127762; Current Phase: Waxing Crescent (31% illuminated)<br />&#128336; Tonight: Moonrise 11:41 AM, Moonset 11:57 PM</p><p>&#128260; Next Phase: First Quarter on December 27, 2025<br />&#127765; Next Full Moon: January 03, 2026<br />&#127761; Next New Moon: January 18, 2026</p><p>&#128197; This Week&#39;s Moon Events:<br />  • First Quarter: December 27, 2025</p><p><a href="https://mitchelltribe.social/tags/MoonPhase" class="mention hashtag" rel="tag">#<span>MoonPhase</span></a> <a href="https://mitchelltribe.social/tags/Astronomy" class="mention hashtag" rel="tag">#<span>Astronomy</span></a> <a href="https://mitchelltribe.social/tags/Automated" class="mention hashtag" rel="tag">#<span>Automated</span></a> <a href="https://mitchelltribe.social/tags/WaxingCrescent" class="mention hashtag" rel="tag">#<span>WaxingCrescent</span></a></p>]]></content:encoded>
-      <media:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/789/058/769/545/377/original/71f0abed4a07f693.mp4" type="video/mp4" fileSize="40807" medium="image"/>
-    </item>
   </channel>
 </rss>
