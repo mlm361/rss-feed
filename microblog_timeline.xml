@@ -5,18 +5,6 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 19:09:29 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115793105329355244</guid>
-      <link>https://mitchelltribe.social/@michael/115793105329355244</link>
-      <pubDate>Sat, 27 Dec 2025 19:09:29 +0000</pubDate>
-      <description>&amp;lt;p&amp;gt;🌓 First Quarter Moon: Perfect balance of light and shadow!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;🌓 Current Phase: First Quarter (41% illuminated)&amp;lt;br /&amp;gt;🕐 Tonight: Moonrise 12:11 PM&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;🔄 Next Phase: First Quarter on December 27, 2025&amp;lt;br /&amp;gt;🌕 Next Full Moon: January 03, 2026&amp;lt;br /&amp;gt;🌑 Next New Moon: January 18, 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;📅 This Week&amp;amp;#39;s Moon Events:&amp;lt;br /&amp;gt;  • First Quarter: December 27, 2025&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://mitchelltribe.social/tags/MoonPhase&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;MoonPhase&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://mitchelltribe.social/tags/Astronomy&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;Astronomy&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://mitchelltribe.social/tags/Automated&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;Automated&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://mitchelltribe.social/tags/FirstQuarter&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;FirstQuarter&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <category>MoonPhase</category>
-      <category>astronomy</category>
-      <category>Automated</category>
-      <category>FirstQuarter</category>
-      <media:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/793/104/945/483/484/original/98d537319599824d.mp4" type="video/mp4" fileSize="40955" medium="image"/>
-    </item>
   </channel>
 </rss>
