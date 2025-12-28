@@ -5,6 +5,15 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2025 11:00:03 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115796843128961446</guid>
+      <link>https://mitchelltribe.social/@michael/115796843128961446</link>
+      <pubDate>Sun, 28 Dec 2025 11:00:03 +0000</pubDate>
+      <description>&amp;lt;p&amp;gt;Wishing my brother Daniel an amazing birthday! 🥳 &amp;lt;a href=&quot;https://mitchelltribe.social/tags/birthday&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;birthday&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; 🎉🎂&amp;lt;/p&amp;gt;</description>
+      <category>birthday</category>
+      <media:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/796/843/071/595/698/original/d2575acd7f6cb424.jpg" type="image/jpeg" fileSize="29387" medium="image"/>
+    </item>
   </channel>
 </rss>
