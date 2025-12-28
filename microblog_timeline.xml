@@ -5,6 +5,17 @@
     <link>https://mitchelltribe.social/@michael</link>
     <description>Posts from Mastodon for Micro.blog timeline</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2025 10:00:52 +0000</lastBuildDate>
     <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="true">https://mitchelltribe.social/@michael/115796610408254526</guid>
+      <link>https://mitchelltribe.social/@michael/115796610408254526</link>
+      <pubDate>Sun, 28 Dec 2025 10:00:52 +0000</pubDate>
+      <description>&amp;lt;p&amp;gt;🌅 Brandon, FL Sunday Sky Report - Sunday, December 28, 2025 🌅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;🌅 Sunrise: 07:20 AM&amp;lt;br /&amp;gt;🌇 Sunset: 05:43 PM&amp;lt;br /&amp;gt;☀️ Daylight: 10h 23m&amp;lt;br /&amp;gt;🌔 Moon Phase: Waxing Gibbous (52% illuminated)&amp;lt;br /&amp;gt;🌔 Moon&amp;amp;#39;s approximate distance from Earth: 384,400 km&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://mitchelltribe.social/tags/SundaySky&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;SundaySky&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://mitchelltribe.social/tags/Astronomy&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;Astronomy&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://mitchelltribe.social/tags/Automated&quot; class=&quot;mention hashtag&quot; rel=&quot;tag&quot;&amp;gt;#&amp;lt;span&amp;gt;Automated&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <category>SundaySky</category>
+      <category>astronomy</category>
+      <category>Automated</category>
+      <media:content url="https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/796/610/006/956/532/original/20f55cfd3ce37206.mp4" type="video/mp4" fileSize="41119" medium="image"/>
+    </item>
   </channel>
 </rss>
