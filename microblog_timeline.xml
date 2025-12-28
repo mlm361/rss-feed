@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0">
   <channel>
-    <title>Mitchell Tribe Timeline</title>
-    <link>https://mitchelltribe.social/@michael</link>
-    <description>Posts from Mastodon for Micro.blog timeline</description>
-    <language>en-us</language>
-    <atom:link href="https://mlm361.github.io/rss-feed/microblog_timeline.xml" rel="self" type="application/rss+xml"/>
+    <title xmlns:dc="http://purl.org/dc/elements/1.1/">Mitchell Tribe Timeline</title>
+    <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://mitchelltribe.social/@michael</link>
+    <description xmlns:dc="http://purl.org/dc/elements/1.1/">Posts from Mastodon for Micro.blog timeline</description>
   </channel>
 </rss>
