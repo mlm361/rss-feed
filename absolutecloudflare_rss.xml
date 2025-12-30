@@ -4,13 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Michael's Journal</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">My 2025 in Review</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/my-2025-in-review/</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/"></description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/my-2025-in-review/</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Mon, 29 Dec 2025 19:11:17 +0000</pubDate>
-      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
-    </item>
   </channel>
 </rss>
