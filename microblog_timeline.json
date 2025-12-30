@@ -4,16 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115810292467351139",
-      "url": "https://mitchelltribe.social/@michael/115810292467351139",
-      "content_html": "<p>Had my heart cath today and it went well, no issues 💖. I&#39;m already home and resting. If I choose the alcohol ablation route, it seems like it could be a solid option. I’ll see the HCOM specialist next Friday and should have all the info I need to make a decision then 📅🩺. <a href=\"https://mitchelltribe.social/tags/HCOM\" class=\"mention hashtag\" rel=\"tag\">#<span>HCOM</span></a> <a href=\"https://mitchelltribe.social/tags/Cardiology\" class=\"mention hashtag\" rel=\"tag\">#<span>Cardiology</span></a></p>",
-      "date_published": "2025-12-30T20:00:24+00:00",
-      "tags": [
-        "HCOM",
-        "cardiology"
-      ]
-    }
-  ]
+  "items": []
 }
