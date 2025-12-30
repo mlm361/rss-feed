@@ -4,5 +4,16 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115810411457019584",
+      "url": "https://mitchelltribe.social/@michael/115810411457019584",
+      "content_html": "<p>I finally bit the bullet and bought a 22TB hard drive for Plex since my current 14TB drive is already half full 💾, and I’m not even 40% done with my DVD collection 🎥. At the same time, I grabbed a 64GB DDR5 kit ⚡, which just two months ago would have cost me half as much 💸. <a href=\"https://mitchelltribe.social/tags/selfhosting\" class=\"mention hashtag\" rel=\"tag\">#<span>selfhosting</span></a> <a href=\"https://mitchelltribe.social/tags/PCTech\" class=\"mention hashtag\" rel=\"tag\">#<span>PCTech</span></a></p>",
+      "date_published": "2025-12-30T20:30:39+00:00",
+      "tags": [
+        "selfhosting",
+        "PCTech"
+      ]
+    }
+  ]
 }
