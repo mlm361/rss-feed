@@ -4,23 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115818079040045826",
-      "url": "https://mitchelltribe.social/@michael/115818079040045826",
-      "content_html": "<p>Today is for reflecting on the past and dreaming big for tomorrow! 💭</p><p><a href=\"https://mitchelltribe.social/tags/NewYearsDay\" class=\"mention hashtag\" rel=\"tag\">#<span>NewYearsDay</span></a> <a href=\"https://mitchelltribe.social/tags/HappyNewYear\" class=\"mention hashtag\" rel=\"tag\">#<span>HappyNewYear</span></a> <a href=\"https://mitchelltribe.social/tags/NewYearCelebration\" class=\"mention hashtag\" rel=\"tag\">#<span>NewYearCelebration</span></a> 🎊🥳🎆🍾</p>",
-      "date_published": "2026-01-01T05:00:37+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/818/078/820/335/204/original/995e42a1f8c0261d.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "newyearsday",
-        "happynewyear",
-        "NewYearCelebration"
-      ]
-    }
-  ]
+  "items": []
 }
