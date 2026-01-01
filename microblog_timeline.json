@@ -4,5 +4,23 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115819730161641848",
+      "url": "https://mitchelltribe.social/@michael/115819730161641848",
+      "content_html": "<p>Top of the morning to you! for Brandon, FL</p><p>☀️ Zero rain chance forecasted for today</p><p>☀️ Current conditions in Brandon, FL:<br />☀️ Clear, 37°F (feels like 32°F)<br />💧 Humidity: 93%<br />🌬️ Wind: 3 mph ENE<br />UV Index: 0 🟢 (Low)<br />AQI: 1 😊 (Good)</p><p>Forecast for 1 PM:<br />☀️ Clear, 64°F<br />💧 Humidity: 51%<br />🌧️ Precipitation Chance: 0%<br />UV Index: 5 🟡 (Moderate)<br /><a href=\"https://mitchelltribe.social/tags/Weather\" class=\"mention hashtag\" rel=\"tag\">#<span>Weather</span></a> <a href=\"https://mitchelltribe.social/tags/Automated\" class=\"mention hashtag\" rel=\"tag\">#<span>Automated</span></a> <a href=\"https://mitchelltribe.social/tags/Clear\" class=\"mention hashtag\" rel=\"tag\">#<span>Clear</span></a></p>",
+      "date_published": "2026-01-01T12:00:31+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/819/729/557/766/801/original/817b3b3de5a39c12.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "Automated",
+        "clear"
+      ]
+    }
+  ]
 }
