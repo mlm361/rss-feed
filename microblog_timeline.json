@@ -4,11 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115868704385753367",
-      "content_html": "Finally, Great Heart News  Great news today at my follow-up with my hypertrophic cardiomyopathy specialist. Camzyos is really starting to work. My most recent echo earlier this week was excellent, and so was the heart cath I ha    https://  mitchelltribe.com/2026/01/09/f  inally-great-heart-news/",
-      "date_published": "2026-01-10T03:35:19+00:00"
-    }
-  ]
+  "items": []
 }
