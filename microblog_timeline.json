@@ -4,16 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115868537788608854",
-      "content_html": "Well, another thing checked off ✅,   https://  mtribe.link     is live and working 🚀. My own privacy-focused URL shortener service is up and running - no tracking, no analytics, just redirects! 🎉  # URLShortener    # SelfHosting    # Privacy",
-      "date_published": "2026-01-10T02:52:57+00:00",
-      "tags": [
-        "urlshortener",
-        "selfhosting",
-        "privacy"
-      ]
-    }
-  ]
+  "items": []
 }
