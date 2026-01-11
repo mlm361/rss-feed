@@ -4,16 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115876589904994529",
-      "content_html": "🌅 Week January 12–17, 2026 Sunrise and Sunset Schedule for Brandon, FL 🌅  🌘 Current Moon Phase: Waning Crescent (47% illuminated) 🌍 Moon's distance from Earth: 386,262 km (240,012 mi)  Daylight increasing approximately 1 minute per day this week  Mon: 🌅  7:21 AM / 🌇 5:53 PM Tue: 🌅  7:21 AM / 🌇 5:54 PM Wed: 🌅  7:21 AM / 🌇 5:54 PM Thu: 🌅  7:21 AM / 🌇 5:55 PM Fri: 🌅  7:21 AM / 🌇 5:56 PM Sat: 🌅  7:21 AM / 🌇 5:57 PM   # Astronomy    # Automated    # SunriseSunset",
-      "date_published": "2026-01-11T13:00:42+00:00",
-      "tags": [
-        "astronomy",
-        "Automated",
-        "sunrisesunset"
-      ]
-    }
-  ]
+  "items": []
 }
