@@ -4,13 +4,5 @@
     <title xmlns:dc="http://purl.org/dc/elements/1.1/">Michael's Journal</title>
     <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/</link>
     <description xmlns:dc="http://purl.org/dc/elements/1.1/">Personal journal posts</description>
-    <item>
-      <title xmlns:dc="http://purl.org/dc/elements/1.1/">Article I Was First for a Reason</title>
-      <link xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/article-i-was-first-for-a-reason/</link>
-      <description xmlns:dc="http://purl.org/dc/elements/1.1/"></description>
-      <guid xmlns:dc="http://purl.org/dc/elements/1.1/">https://michaels-journal.pages.dev/article-i-was-first-for-a-reason/</guid>
-      <pubDate xmlns:dc="http://purl.org/dc/elements/1.1/">Thu, 15 Jan 2026 19:52:01 +0000</pubDate>
-      <category xmlns:dc="http://purl.org/dc/elements/1.1/">n8n</category>
-    </item>
   </channel>
 </rss>
