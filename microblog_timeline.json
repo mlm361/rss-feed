@@ -4,5 +4,22 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115909600792411457",
+      "content_html": "🥶 FREEZE WATCH - Severe 📍 Brandon, FL ⏰ Until 12:00 AM UTC-05:00 on 01/19 🏠 Take steps now to protect tender plants from the cold. 📋 Full alert details:   https://  api.weather.gov/alerts/urn:oid  :2.49.0.1.840.0.1989c8b0b1f36664485fd0648946510fbdf246f3.003.1     # Weather    # NWSAlert    # FloridaWeather",
+      "date_published": "2026-01-17T08:55:48+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/909/600/372/581/049/original/ce8dabcf5f4aced6.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "NWSAlert",
+        "FloridaWeather"
+      ]
+    }
+  ]
 }
