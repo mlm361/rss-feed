@@ -4,5 +4,38 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115910326744530037",
+      "content_html": "Morning glory! Let's check today's weather! 🌅  ☀️ Zero rain chance forecasted for today  ☀️ Current conditions in Brandon, FL: ☀️ Clear, 45°F (feels like 41°F) 💧 Humidity: 87% 🌬️ Wind: 7 mph NE UV Index: 0 🟢 (Low) AQI: 1 😊 (Good)  Forecast for 1 PM: ☁️ Partly Cloudy , 66°F 💧 Humidity: 47% 🌧️ Precipitation Chance: 0% UV Index: 5 🟡 (Moderate)  # Weather    # Automated    # Clear",
+      "date_published": "2026-01-17T12:00:25+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/910/326/330/162/527/original/504dc6b4aa0cedd9.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "Automated",
+        "clear"
+      ]
+    },
+    {
+      "id": "https://mitchelltribe.social/@michael/115910310104629540",
+      "content_html": "🥶 FREEZE WATCH - Severe 📍 Brandon, FL ⏰ Until 12:00 AM UTC-05:00 on 01/19 🏠 Take steps now to protect tender plants from the cold. 📋 Full alert details:   https://  api.weather.gov/alerts/urn:oid  :2.49.0.1.840.0.1989c8b0b1f36664485fd0648946510fbdf246f3.003.1     # Weather    # NWSAlert    # FloridaWeather",
+      "date_published": "2026-01-17T11:56:12+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/910/309/709/447/456/original/d91e3818fe192322.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "NWSAlert",
+        "FloridaWeather"
+      ]
+    }
+  ]
 }
