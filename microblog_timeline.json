@@ -4,5 +4,11 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115919025652058683",
+      "content_html": "Spent most of today trying to move my Bluesky account to my own PDS 🔄. The migration seemed to go fine, but then the Bluesky app wouldn’t authenticate 🔐. I’ve emailed support to switch me back to the hosted PDS (Lionsmane) 🦁 and I’m waiting to hear back 📧.\n\nI even tried troubleshooting with AI 🤖, but this one definitely needs human help 🧑‍💻. Self-hosting is still pretty rough around the edges ⚙️.",
+      "date_published": "2026-01-19T00:52:40+00:00"
+    }
+  ]
 }
