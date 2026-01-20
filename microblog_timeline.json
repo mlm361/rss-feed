@@ -4,17 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115929703477975081",
-      "content_html": "Quick reminder: I migrated my Bluesky account to my self-hosted PDS ⚙️, but the Bluesky app cannot authenticate afterward and throws \"JWT signature does not match issuer.\"  I have contacted support to revert my DID back to the hosted PDS so I can log in again. Until then, I can't access my Bluesky account.  # Bluesky    # PDS    # SelfHosting    # ATProto",
-      "date_published": "2026-01-20T22:08:11+00:00",
-      "tags": [
-        "bluesky",
-        "pds",
-        "selfhosting",
-        "atproto"
-      ]
-    }
-  ]
+  "items": []
 }
