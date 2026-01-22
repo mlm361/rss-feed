@@ -4,5 +4,22 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115938640220763372",
+      "content_html": "Start your day with this weather update! ☀️  ☀️ Zero rain chance forecasted for today  ☀️ Current conditions in Brandon, FL: ☀️ Clear, 60°F (feels like 60°F) 💧 Humidity: 88% 🌬️ Wind: 8 mph NNE UV Index: 0 🟢 (Low) AQI: 1 😊 (Good)  Forecast for 1 PM: ☀️ Sunny, 76°F 💧 Humidity: 57% 🌧️ Precipitation Chance: 0% UV Index: 5 🟡 (Moderate)  # Weather    # Automated    # Clear",
+      "date_published": "2026-01-22T12:00:55+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/938/639/783/824/112/original/a21abca9c5631ebd.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "Automated",
+        "clear"
+      ]
+    }
+  ]
 }
