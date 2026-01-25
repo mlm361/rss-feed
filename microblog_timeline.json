@@ -4,22 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115956867976639046",
-      "content_html": "⚠️ SPECIAL WEATHER STATEMENT - Moderate ⚠️ Wind gusts of 50 to 55 mph. (Radar indicated.) 📍 Affects: Atmore, Greenville, Brewton, Evergreen, Flomaton, East Br... ⏰ Until 11:45 AM UTC-06:00 on 01/25 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=MOB&issuedby=MOB&product=SPS&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-25T17:16:28+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/956/867/486/126/982/original/e3b9d8878178ccc8.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    }
-  ]
+  "items": []
 }
