@@ -6,19 +6,19 @@
   "description": "Posts from Mastodon for Micro.blog timeline",
   "items": [
     {
-      "id": "https://mitchelltribe.social/@michael/115961241410481205",
-      "content_html": "🥶 COLD WEATHER ADVISORY - Moderate ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 expected 📍 Brandon, FL ⏰ Until 09:00 AM UTC-05:00 on 01/28 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-26T11:48:42+00:00",
+      "id": "https://mitchelltribe.social/@michael/115961289161880711",
+      "content_html": "Your morning weather briefing is ready! 📋 for Brandon, FL  🌧️ Peak rain chance for today 100% forecasted for 09:00 AM  🌧️ Current conditions in Brandon, FL: 🌧️ Moderate rain, 75°F (feels like 80°F) 💧 Humidity: 94% 🌬️ Wind: 12 mph NW UV Index: 0 🟢 (Low) AQI: 1 😊 (Good)  Forecast for 1 PM: ☁️ Overcast , 63°F 💧 Humidity: 90% 🌧️ Precipitation Chance: 0% UV Index: 6 🟠 (High)  # Weather    # Automated    # ModerateRain",
+      "date_published": "2026-01-26T12:00:50+00:00",
       "attachments": [
         {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/961/240/986/990/476/original/21542048a50218fe.mp4",
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/961/288/768/856/575/original/ed49429796d89f1a.mp4",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
         "Weather",
-        "NWSAlert",
-        "FloridaWeather"
+        "Automated",
+        "ModerateRain"
       ]
     }
   ]
