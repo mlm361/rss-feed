@@ -4,23 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115959585361898435",
-      "content_html": "🌒 Waxing Crescent: The first light after the new moon!  🌒 Current Phase: Waxing Crescent (37% illuminated) 🕐 Tonight: Moonrise 11:20 AM  🔄 Next Phase: Full Moon on February 01, 2026 🌕 Next Full Moon: February 01, 2026 🌑 Next New Moon: February 17, 2026  📅 This Week's Moon Events:   • First Quarter: January 25, 2026   # MoonPhase    # Astronomy    # Automated    # WaxingCrescent",
-      "date_published": "2026-01-26T04:47:32+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/959/584/958/743/738/original/aa6bd285771d3279.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "MoonPhase",
-        "astronomy",
-        "Automated",
-        "WaxingCrescent"
-      ]
-    }
-  ]
+  "items": []
 }
