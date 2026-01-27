@@ -6,28 +6,12 @@
   "description": "Posts from Mastodon for Micro.blog timeline",
   "items": [
     {
-      "id": "https://mitchelltribe.social/@michael/115965499393883631",
-      "content_html": "🥶 FREEZE WATCH - Severe ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-27T05:51:33+00:00",
+      "id": "https://mitchelltribe.social/@michael/115965499867344787",
+      "content_html": "🥶 COLD WEATHER ADVISORY - Moderate ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
+      "date_published": "2026-01-27T05:51:41+00:00",
       "attachments": [
         {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/965/498/972/912/438/original/5876d7a74f046671.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    },
-    {
-      "id": "https://mitchelltribe.social/@michael/115965498922850346",
-      "content_html": "🥶 FREEZE WARNING - Moderate ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-27T05:51:26+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/965/498/464/947/805/original/07ade530aaad9200.mp4",
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/965/499/445/502/941/original/ccac09c3df7bc187.mp4",
           "mime_type": "video/mp4"
         }
       ],
