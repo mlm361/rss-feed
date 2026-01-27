@@ -4,54 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115967392065560585",
-      "content_html": "🥶 COLD WEATHER ADVISORY - Moderate ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-27T13:52:53+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/967/391/641/024/999/original/395bbb953df550c5.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    },
-    {
-      "id": "https://mitchelltribe.social/@michael/115967391591535427",
-      "content_html": "🥶 FREEZE WATCH - Severe ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-27T13:52:46+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/967/391/173/809/524/original/1fbf6fa9f281c97a.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    },
-    {
-      "id": "https://mitchelltribe.social/@michael/115967391125741537",
-      "content_html": "🥶 FREEZE WARNING - Moderate ⚠️ For the Cold Weather Advisory, very cold wind chills as low as 24 📍 Brandon, FL ⏰ Until 08:30 AM UTC-05:00 on 01/27 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-27T13:52:39+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/967/390/663/197/227/original/185fc0f4908302a7.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    }
-  ]
+  "items": []
 }
