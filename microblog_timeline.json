@@ -4,5 +4,17 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/115970670734964528",
+      "content_html": "Quick update on my Bluesky situation. The PLC revert worked and my account points back to the correct PDS ✅. API calls work when tested directly, but the official web and mobile clients still show \"jwt signature does not match jwt issuer\" ⚠️ when trying to load content. Waiting on Bluesky support to resolve something on their end 🛠️.   # Bluesky    # PDS    # SelfHosting    # ATProto",
+      "date_published": "2026-01-28T03:46:42+00:00",
+      "tags": [
+        "bluesky",
+        "pds",
+        "selfhosting",
+        "atproto"
+      ]
+    }
+  ]
 }
