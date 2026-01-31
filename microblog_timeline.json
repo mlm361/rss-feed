@@ -4,40 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115991174167689400",
-      "content_html": "Sorry for the sudden flood of weather posts! 🌧️ I was fine-tuning my Pi 5 Weatherbot 🤖 and its alert system. Things should settle down now. We're actually getting some seriously cold weather for Florida 🥶, perfect for hot chocolate ☕, especially since I don’t drink coffee 😊.  # WeatherUpdates    # FloridaWeather    # TechLife    # Selfhosting",
-      "date_published": "2026-01-31T18:40:59+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/991/174/049/361/489/original/01beca54535e2cb7.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "image": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/991/174/049/361/489/original/01beca54535e2cb7.jpg",
-      "tags": [
-        "weatherupdates",
-        "FloridaWeather",
-        "techlife",
-        "selfhosting"
-      ]
-    },
-    {
-      "id": "https://mitchelltribe.social/@michael/115991152574840980",
-      "content_html": "💨 WIND ADVISORY - Moderate ⚠️ For the Wind Advisory, northwest winds 25 to 35 mph with gusts up to 40 mph expected 📍 Brandon, FL ⏰ Until 10:00 AM UTC-05:00 on 02/01 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-31T18:35:30+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/991/152/163/760/316/original/ec9383f7b4c8e994.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    }
-  ]
+  "items": []
 }
