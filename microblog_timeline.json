@@ -4,38 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/115991635237205128",
-      "content_html": "💨 WIND ADVISORY - Moderate ⚠️ For the Wind Advisory, northwest winds 20 to 30 mph with gusts up to 35 mph expected 📍 Brandon, FL ⏰ Until 10:00 AM UTC-05:00 on 02/01 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-31T20:38:15+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/991/634/857/095/838/original/1d3399aa01146294.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    },
-    {
-      "id": "https://mitchelltribe.social/@michael/115991634807780424",
-      "content_html": "🚨 4 ACTIVE WEATHER ALERTS 🥶 Cold Weather Advisory (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Extreme Cold Warning (Severe) 📍 Brandon, FL 📋   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-01-31T20:38:08+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/991/634/399/051/859/original/5f6e6775b09de2fe.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
-      ]
-    }
-  ]
+  "items": []
 }
