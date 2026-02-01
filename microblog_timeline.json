@@ -6,19 +6,13 @@
   "description": "Posts from Mastodon for Micro.blog timeline",
   "items": [
     {
-      "id": "https://mitchelltribe.social/@michael/115995432917695501",
-      "content_html": "🚨 8 ACTIVE WEATHER ALERTS 🥶 Cold Weather Advisory (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Extreme Cold Warning (Severe) 🥶 Cold Weather Advisory (Moderate) 🥶 Freeze Warning (Moderate) 🥶 Cold Weather Advisory (Moderate) 📍 Brandon, FL 📋   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
-      "date_published": "2026-02-01T12:44:03+00:00",
-      "attachments": [
-        {
-          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/115/995/432/481/559/126/original/e5061f68ac47ac4b.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
+      "id": "https://mitchelltribe.social/@michael/115995495955112192",
+      "content_html": "🌅 Week February 2–7, 2026 Sunrise and Sunset Schedule for Brandon, FL 🌅  🌕 Current Moon Phase: Full Moon (99% illuminated) 🌍 Moon's distance from Earth: 356,598 km (221,579 mi)  Daylight increasing approximately 1 minute per day this week  Mon: 🌅  7:15 AM / 🌇 6:10 PM Tue: 🌅  7:15 AM / 🌇 6:11 PM Wed: 🌅  7:14 AM / 🌇 6:11 PM Thu: 🌅  7:13 AM / 🌇 6:12 PM Fri: 🌅  7:13 AM / 🌇 6:13 PM Sat: 🌅  7:12 AM / 🌇 6:14 PM   # Astronomy    # Automated    # SunriseSunset",
+      "date_published": "2026-02-01T13:00:04+00:00",
       "tags": [
-        "Weather",
-        "NWSAlert",
-        "FloridaWeather"
+        "astronomy",
+        "Automated",
+        "sunrisesunset"
       ]
     }
   ]
