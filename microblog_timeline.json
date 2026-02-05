@@ -4,17 +4,5 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": [
-    {
-      "id": "https://mitchelltribe.social/@michael/116019107156670873",
-      "content_html": "Quick Bluesky update: Still locked out after my failed PDS migration attempt. The PLC revert worked and API calls succeed, but the official apps still show a JWT error when loading content. Bluesky support has gone silent for over two weeks. I've escalated to the PDS operators Discord. If you follow me on Bluesky, I can't see or respond to anything there right now.   # Bluesky    # PDS    # SelfHosting    # ATProto",
-      "date_published": "2026-02-05T17:04:43+00:00",
-      "tags": [
-        "bluesky",
-        "pds",
-        "selfhosting",
-        "atproto"
-      ]
-    }
-  ]
+  "items": []
 }
