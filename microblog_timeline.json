@@ -4,5 +4,22 @@
   "home_page_url": "https://mitchelltribe.social/@michael",
   "feed_url": "https://mlm361.github.io/rss-feed/microblog_timeline.json",
   "description": "Posts from Mastodon for Micro.blog timeline",
-  "items": []
+  "items": [
+    {
+      "id": "https://mitchelltribe.social/@michael/116060211465172411",
+      "content_html": "⚠️ DENSE FOG ADVISORY - Moderate 📍 Brandon, FL ⏰ Until 07:00 AM UTC-05:00 on 02/13 🏠 If driving, slow down, use your headlights, and leave plenty of distance ahead of you. 📋 Full alert details:   https://  forecast.weather.gov/product.p  hp?site=TBW&issuedby=TBW&product=NPW&format=CI&version=1&glossary=0     # Weather    # NWSAlert    # FloridaWeather",
+      "date_published": "2026-02-12T23:18:05+00:00",
+      "attachments": [
+        {
+          "url": "https://cdn.masto.host/mitchelltribesocial/media_attachments/files/116/060/211/044/213/070/original/7066f127204d894f.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "Weather",
+        "NWSAlert",
+        "FloridaWeather"
+      ]
+    }
+  ]
 }
