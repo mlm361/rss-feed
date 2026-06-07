@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-07T07:28:47.736032+00:00",
+  "generated_at": "2026-06-07T07:42:21.171066+00:00",
   "source": "Comprehensive Full Fetch (Schema v2)",
   "update_frequency": "Monthly full rebuild + weekly incremental",
   "note": "Complete blog statistics from full analysis, normalized to schema v2",
